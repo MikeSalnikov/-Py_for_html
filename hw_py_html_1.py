@@ -14,7 +14,7 @@ def get_data(url: str) -> dict:
     return response.json()
 
 username = input('Введите username: ')
-username = 'mmingalov' if username == '' else username
+username = 'mikesalnikov' if username == '' else username
 url = 'https://api.github.com/users/'+username+'/repos'
 
 response = get_data(url)
