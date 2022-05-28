@@ -33,7 +33,6 @@ page_link = '/search/vacancy'
 vacancies = []
 i = 0
 
-
 while True:
     response = requests.get(main_url + page_link,
                             params=params,
