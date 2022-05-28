@@ -1,0 +1,801 @@
+website,name,link,salary_min,salary_max,salary_currency,employer,address
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/66082286,,,,ТОО Business and Technology Services,Нур-Султан
+hh.ru,Backend developer (Python),https://spb.hh.ru/vacancy/66137933,300000.0,,KZT,ТОО Click Logistics,Алматы
+hh.ru,Веб разработчик,https://spb.hh.ru/vacancy/55240826,150000.0,,руб,ООО ДЕМЛАБС,Новосибирск
+hh.ru,Senior data scientist,https://spb.hh.ru/vacancy/54418768,,,,АО Банк ДОМ.РФ,Москва
+hh.ru,Аналитик данных,https://spb.hh.ru/vacancy/54997493,,,,rabota.by,"Минск, Михалово"
+hh.ru,"Data Analyst \ Аналитик данных (BI, SQL, Python, Data Science)",https://spb.hh.ru/vacancy/55340822,170000.0,210000.0,руб,ООО HeadHunter:: IT,"Москва, Алексеевская"
+hh.ru,Backend Developer Python/Django (Middle+),https://spb.hh.ru/vacancy/55859298,,,,ООО AKFA Group,Ташкент
+hh.ru,Middle / Senior QA инженер в команду Монетизации,https://spb.hh.ru/vacancy/52599783,200000.0,,руб,ООО HeadHunter::QA,"Москва, Алексеевская"
+hh.ru,"Системный программист iOS/Android (реверс инженер), удаленно",https://spb.hh.ru/vacancy/55870469,3000.0,7000.0,EUR,ООО Бринго,Москва
+hh.ru,Junior Back-end/Go Developer,https://spb.hh.ru/vacancy/55862777,,,,ТОО LEOPART CENTER,Алматы
+hh.ru,Database Developer,https://spb.hh.ru/vacancy/55902868,,,,Scand,Минск
+hh.ru,Разработчик SQL,https://spb.hh.ru/vacancy/54836751,,,,QIWI,Екатеринбург
+hh.ru,SRE/DevOps Engineer,https://spb.hh.ru/vacancy/55869056,200000.0,,руб,АО Морфбитс,Санкт-Петербург
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/54939886,,450000.0,руб,Точка,Москва
+hh.ru,Junior Python разработчик,https://spb.hh.ru/vacancy/55167412,40000.0,100000.0,руб,ООО РеРиКом,Казань
+hh.ru,Стажер-разработчик Python,https://spb.hh.ru/vacancy/55132214,20000.0,50000.0,руб,ООО Аналитические программные решения,"Москва, Марьина Роща"
+hh.ru,Python Developer (в ОАЭ),https://spb.hh.ru/vacancy/55225298,4000.0,7000.0,USD,Progressive Mind,"Москва, Международная"
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55875763,120000.0,230000.0,руб,Coding Team,"Санкт-Петербург, Петроградская"
+hh.ru,Python developer,https://spb.hh.ru/vacancy/66111185,40000.0,120000.0,руб,ООО КОМТЕК,Барнаул
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55880675,3000.0,3500.0,USD,Hello Bali Beautiful,Москва
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/66090178,,,,ООО НТБ,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55160452,150000.0,,руб,BrainGarden,"Санкт-Петербург, Петроградская и еще 2 "
+hh.ru,Junior Python разработчик,https://spb.hh.ru/vacancy/66122585,,,,"ПАО МегаФон, IT","Санкт-Петербург, Василеостровская"
+hh.ru,Программист Python django,https://spb.hh.ru/vacancy/66084842,130000.0,150000.0,руб,Production IT,Москва
+hh.ru,Разработчик Python/Senior Developer,https://spb.hh.ru/vacancy/66088629,350000.0,450000.0,руб,ООО Центр Психологической Помощи и Консультирования,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55907338,100000.0,250000.0,руб,Fitingo,"Москва, Автозаводская и еще 2 "
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55132598,150000.0,250000.0,руб,АО Гринатом,Москва
+hh.ru,Python developer (Senior),https://spb.hh.ru/vacancy/54956212,360000.0,480000.0,руб,ООО Вайт Код,"Санкт-Петербург, Петроградская"
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55280129,80000.0,120000.0,руб,ИП Шаимов Марат Шагишарифович,Челябинск
+hh.ru,Middle/Senior Python Developer,https://spb.hh.ru/vacancy/55442179,180000.0,350000.0,руб,ООО БОЛЬШАЯ ТРОЙКА,Москва
+hh.ru,Junior/Middle backend разработчик на Python (Django),https://spb.hh.ru/vacancy/66068623,50000.0,120000.0,руб,Webtronics,Москва
+hh.ru,NLP/ML Developer,https://spb.hh.ru/vacancy/55905118,,200000.0,руб,Концепта,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/47668037,30000.0,80000.0,руб,ООО Электронная медицина,Ростов-на-Дону
+hh.ru,Junior Аналитик Python/SQL в Центр ИТ-валидации,https://spb.hh.ru/vacancy/66099215,,,,Сбер. Data Science,"Москва, Кутузовская и еще 1 "
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/66111005,200000.0,,руб,Среда Капитал,Санкт-Петербург
+hh.ru,Python Backend Developer (Middle/Remote),https://spb.hh.ru/vacancy/66131412,,200000.0,руб,JetLend,Санкт-Петербург
+hh.ru,Python Middle/Senior Developer,https://spb.hh.ru/vacancy/66128083,1500.0,3500.0,USD,Abiatec,"Минск, Площадь Якуба Коласа"
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55368545,,,,Insider Week,Москва
+hh.ru,Python/Django Web Developer (Remote),https://spb.hh.ru/vacancy/66135783,4000.0,6000.0,USD,Soshace,Тбилиси
+hh.ru,Data Analyst / Аналитик данных,https://spb.hh.ru/vacancy/53331706,180000.0,,руб,WAZZUP,Москва
+hh.ru,Ведущий разработчик (Python/JavaScript),https://spb.hh.ru/vacancy/55900741,300000.0,350000.0,руб,ИП Шпак Виктория Сергеевна,Москва
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/49397923,200000.0,300000.0,руб,Novakid Inc,Санкт-Петербург
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55597998,,200000.0,руб,Enjoypro,Санкт-Петербург
+hh.ru,Middle Python developer,https://spb.hh.ru/vacancy/48586304,150000.0,200000.0,руб,ООО Селфсек,"Москва, Трубная и еще 2 "
+hh.ru,Middle Python разработчик,https://spb.hh.ru/vacancy/55355132,,,,CityAir,Новосибирск
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55238160,,,,ООО КЦМ,Екатеринбург
+hh.ru,Golang/Python разработчик,https://spb.hh.ru/vacancy/66098501,,200000.0,руб,Баззула Интернет Технологии,"Москва, Китай-город и еще 1 "
+hh.ru,Стажёр-Backend Разработчик,https://spb.hh.ru/vacancy/66127668,,,,ООО Университет Цифровых Технологий Платформа З,Москва
+hh.ru,Разработчик Python (Django),https://spb.hh.ru/vacancy/66109361,,,,ООО Совкомбанк Технологии,"Казань, Площадь Тукая и еще 1 "
+hh.ru,Стажер-программист,https://spb.hh.ru/vacancy/55385897,18000.0,26000.0,руб,Meanotek,Казань
+hh.ru,Junior Data Engineer (GameDev),https://spb.hh.ru/vacancy/55315921,,,,AppQuantum,"Москва, Автозаводская"
+hh.ru,Python developer,https://spb.hh.ru/vacancy/66112913,,100000.0,руб,Сайтсофт,"Екатеринбург, Геологическая и еще 1 "
+hh.ru,Младший аналитик данных (Junior data analyst),https://spb.hh.ru/vacancy/54721740,100000.0,,руб,ООО Финансово-правовой альянс,"Санкт-Петербург, Сенная площадь"
+hh.ru,Software Engineer (Python/Data/MLOps),https://spb.hh.ru/vacancy/55536508,4000.0,6000.0,USD,Alber Blanc,Санкт-Петербург
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/66100902,,,,AYA Group,Казань
+hh.ru,QA Load (Python),https://spb.hh.ru/vacancy/55300260,250000.0,300000.0,руб,КИБЕР-РОМ,Москва
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/66101965,,,,буше,Санкт-Петербург
+hh.ru,"Тестировщик ПО, Автоматизация ПО (Automate QA, Python, Junior)",https://spb.hh.ru/vacancy/55378030,140000.0,180000.0,руб,Devquality,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/66075600,,,,Chocofamily,Алматы
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55142782,,,,Омега,"Санкт-Петербург, Ломоносовская и еще 1 "
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/66088913,,,,Тинькофф,Саратов
+hh.ru,Senior Python developer || to Montenegro,https://spb.hh.ru/vacancy/66121737,4000.0,7000.0,USD,Lucky Hunter,Москва
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55898295,30000.0,,руб,ООО Амбер,Санкт-Петербург
+hh.ru,Аналитик,https://spb.hh.ru/vacancy/55532882,,240000.0,руб,Точка,Санкт-Петербург
+hh.ru,Backend-разработчик Python/Django,https://spb.hh.ru/vacancy/55314466,,,,AlfaBit.Group,Краснодар
+hh.ru,Junior Data scientist/ Младший риск-аналитик,https://spb.hh.ru/vacancy/54882705,,,,Pay P.S.,"Москва, Динамо и еще 1 "
+hh.ru,Разработчик Python/Django,https://spb.hh.ru/vacancy/55311097,100000.0,,руб,AlfaBit.Group,Краснодар
+hh.ru,Python-разработчик в команду Data Science,https://spb.hh.ru/vacancy/66104114,,,,2ГИС,Нижний Новгород
+hh.ru,Backend developer (Python),https://spb.hh.ru/vacancy/48725584,,,,ООО Константа,"Москва, Красносельская"
+hh.ru,Аналитик (Data Analyst),https://spb.hh.ru/vacancy/66137068,,,,АО Jusan Bank,Алматы
+hh.ru,Python Разработчик,https://spb.hh.ru/vacancy/55260504,,250000.0,руб,Quiet Media,"Москва, Киевская и еще 2 "
+hh.ru,Python Linux developer (remote),https://spb.hh.ru/vacancy/50895660,,5000.0,USD,ООО Темпеста,Москва
+hh.ru,Python-разработчик в команду Data Science,https://spb.hh.ru/vacancy/66096082,,,,2ГИС,Санкт-Петербург
+hh.ru,Программист / Разработчик Python/Django (middle),https://spb.hh.ru/vacancy/55426713,170000.0,250000.0,руб,CATAPULTO.RU,"Москва, Павелецкая и еще 1 "
+hh.ru,Python developer (Django),https://spb.hh.ru/vacancy/66108671,,,,Kokoc Group,Санкт-Петербург
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55390481,,,,Group-IB,Москва
+hh.ru,Python-разработчик в команду Data Science,https://spb.hh.ru/vacancy/66104116,,,,2ГИС,Краснодар
+hh.ru,Python Backend Developer / WEB - разработчик,https://spb.hh.ru/vacancy/55197951,220000.0,280000.0,руб,ООО Перфект Системс,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/54695373,,,,ООО УайтСнейк,Минск
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/53864420,,,,АО РАСЧЕТНЫЕ РЕШЕНИЯ,Москва
+hh.ru,Senior Python-разработчик,https://spb.hh.ru/vacancy/54899635,,400000.0,руб,"Hi, Rockits!",Москва
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55898814,50000.0,80000.0,руб,ИП Галимзянов Данил Агзамович,Казань
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55364720,,300000.0,руб,HR Prime,Москва
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/66117154,,,,Playgendary,Турция
+hh.ru,Middle/Senior Data Scientist,https://spb.hh.ru/vacancy/66141653,200000.0,,руб,JuicyScore,Москва
+hh.ru,Junior/Middle Data Scientist,https://spb.hh.ru/vacancy/55120401,,,,"СтарЛайн, Научно-производственное объединение","Санкт-Петербург, Горьковская и еще 1 "
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/66146489,,,,ООО БиАйЭй-Технолоджиз,"Санкт-Петербург, Фрунзенская"
+hh.ru,Разработчик Python middle,https://spb.hh.ru/vacancy/55228313,200000.0,,руб,Триафлай,"Москва, Парк культуры"
+hh.ru,Практикант в Департамент развития бизнеса,https://spb.hh.ru/vacancy/66078348,,,,ПАО «Газпром нефть»,Санкт-Петербург
+hh.ru,Senior / Middle Python Developer / Teamlead,https://spb.hh.ru/vacancy/54297088,300000.0,,руб,ТехноНИКОЛЬ,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/66073758,,,,ADV/web-engineering,"Москва, Дмитровская"
+hh.ru,Python developer (Django),https://spb.hh.ru/vacancy/66108700,,,,Kokoc Group,Краснодар
+hh.ru,Специалист по разработке и сопровождению чат-бота на Python,https://spb.hh.ru/vacancy/55246126,1200.0,2000.0,бел,ОАО АСБ Беларусбанк,Минск
+hh.ru,Старший разработчик Python,https://spb.hh.ru/vacancy/55127937,200000.0,,руб,ООО СБКЛАУД,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55560562,2500.0,6500.0,USD,Top Remote Talent,Москва
+hh.ru,Python-разработчик в R&D отдел,https://spb.hh.ru/vacancy/49299311,100000.0,150000.0,руб,ООО Селфсек,Санкт-Петербург
+hh.ru,Python Middle+ разработчик,https://spb.hh.ru/vacancy/52390288,100000.0,200000.0,руб,it-aces.com,Новосибирск
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55104197,,,,Innowise Group / Фабрика инноваций и решений,"Минск, Площадь Якуба Коласа"
+hh.ru,Аналитик данных (middle) / удаленная работа,https://spb.hh.ru/vacancy/55187199,80000.0,90000.0,руб,Profilance Group (ИП Страмоусов Марк Петрович),Нижний Новгород
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/66142700,,,,Arrival LTD,Тбилиси
+hh.ru,Senior Python Developer - AI/ML Infrastructure (to Canada/Serbia),https://spb.hh.ru/vacancy/54346658,8500.0,11000.0,USD,Behavox,Санкт-Петербург
+hh.ru,Pyth‎on Developer,https://spb.hh.ru/vacancy/51410388,,,,Циан,"Москва, Преображенская площадь"
+hh.ru,Python developer (Flask/Tornado),https://spb.hh.ru/vacancy/53948584,,,,BI.ZONE Направление Разработка,"Москва, Бауманская и еще 2 "
+hh.ru,Data engineer / Data analyst,https://spb.hh.ru/vacancy/66147837,,,,Bell Integrator,Москва
+hh.ru,Backend разработчик,https://spb.hh.ru/vacancy/55341190,90000.0,250000.0,руб,Kvando Technologies,Брянск
+hh.ru,Full-stack developer - Python,https://spb.hh.ru/vacancy/66115051,,,,Частное учреждение по цифровизации атомной отрасли «Цифрум»,Москва
+hh.ru,Junior Data Engineer,https://spb.hh.ru/vacancy/55889170,,,,"ООО АгроТерра, группа компаний",Москва
+hh.ru,Data Analyst (Middle/Senior),https://spb.hh.ru/vacancy/55546883,,,,inDriver,Алматы
+hh.ru,Middle/Senior Python Developer (удаленно),https://spb.hh.ru/vacancy/55167283,,2500.0,USD,Crezu,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/57389047,,,,ЗАО Группа компаний С7,Москва
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55101983,,,,ООО Регистратор доменных имен РЕГ.РУ,Москва
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/66095960,,,,ТОО Prime Source,Алматы
+hh.ru,Back-end Developer,https://spb.hh.ru/vacancy/55514948,300000.0,1000000.0,KZT,Частная компания FLYING BIRD Ltd.,Нур-Султан
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/66116470,,,,ООО ЦИФРА,Кемерово
+hh.ru,Data Analyst (Marketing),https://spb.hh.ru/vacancy/54246797,,,,Dankolab,Санкт-Петербург
+hh.ru,Программист Python (стажер),https://spb.hh.ru/vacancy/53644433,,,,АО РТИ,Москва
+hh.ru,Backend Developer Senior (Python 3),https://spb.hh.ru/vacancy/66116876,,,,FORTA,Москва
+hh.ru,Разработчик Python (SberWorks),https://spb.hh.ru/vacancy/66108031,,,,Сбер. IT,"Москва, Верхние Котлы и еще 1 "
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/51847609,,,,EvoSoft,Красноярск
+hh.ru,Разработчик Python (Middle+),https://spb.hh.ru/vacancy/66061096,90000.0,180000.0,руб,Maspalla,Москва
+hh.ru,Разработчик Python ML/обработка естественного языка,https://spb.hh.ru/vacancy/54349455,,,,ELMA,Ижевск
+hh.ru,Python-разработчик (SberWorks),https://spb.hh.ru/vacancy/66107001,,,,Сбер. IT,"Москва, Верхние Котлы и еще 1 "
+hh.ru,"Middle Python developer в МТС Аналитику (центр RnD, Big Data)",https://spb.hh.ru/vacancy/66133261,,,,"ПАО «МТС», IT",Москва
+hh.ru,Python разработчик инфраструктуры,https://spb.hh.ru/vacancy/55234566,,200000.0,руб,Баззула Интернет Технологии,Москва
+hh.ru,Middle/Senior Python разработчик (удаленно),https://spb.hh.ru/vacancy/54368979,,250000.0,руб,StormWall™,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55860589,2000.0,4500.0,USD,ООО Апподил,Минск
+hh.ru,DevOps инженер,https://spb.hh.ru/vacancy/55895848,100000.0,200000.0,руб,Gotbit,Москва
+hh.ru,Продуктовый аналитик (Product Analyst),https://spb.hh.ru/vacancy/65396660,120000.0,140000.0,руб,АО Антиплагиат,"Москва, Нагатинская"
+hh.ru,Аналитик баз данных,https://spb.hh.ru/vacancy/55080755,60000.0,70000.0,руб,Цифрал-Сервис,Самара
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/51992559,100000.0,,руб,IT-команда НЕБО,Ростов-на-Дону
+hh.ru,Senior Python разработчик (Remote),https://spb.hh.ru/vacancy/55413797,,5000.0,EUR,InvestEngine,Екатеринбург
+hh.ru,Python Developer (middle/senior),https://spb.hh.ru/vacancy/54048744,,,,FIRECODE,Ростов-на-Дону
+hh.ru,Python developer,https://spb.hh.ru/vacancy/66134559,,,,Sitronics KT,"Санкт-Петербург, Василеостровская"
+hh.ru,Junior / Middle Backend разработчик,https://spb.hh.ru/vacancy/55136100,50000.0,,руб,ООО Одуванчик,Барнаул
+hh.ru,Продуктовый аналитик,https://spb.hh.ru/vacancy/55532875,,240000.0,руб,Точка,Москва
+hh.ru,Middle Python разработчик,https://spb.hh.ru/vacancy/54557297,190000.0,235000.0,руб,ООО ВижнЛабс (VisionLabs),Москва
+hh.ru,Junior Python разработчик (Django),https://spb.hh.ru/vacancy/54712246,60000.0,,руб,ООО МедРейтинг,Краснодар
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/46422522,80000.0,,руб,Группа компаний Лайт и Роспитание,Киров (Кировская область)
+hh.ru,Fullstack техлид (Python),https://spb.hh.ru/vacancy/53622010,250000.0,450000.0,руб,Russian Quantum Center,Москва
+hh.ru,Python разработчик (QA),https://spb.hh.ru/vacancy/54844293,,150000.0,руб,АО Эшелон Технологии,Москва
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/55153738,3500.0,,USD,T-DIGITAL,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55479954,,,,EWA,Москва
+hh.ru,Trainee Python Developer,https://spb.hh.ru/vacancy/55108459,,,,Innowise Group / Фабрика инноваций и решений,Минск
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/53893235,,,,ООО Константа,"Москва, Красносельская"
+hh.ru,Аналитик данных / Data analyst / Data scientist,https://spb.hh.ru/vacancy/55096122,,,,ООО АТОН,"Москва, Новокузнецкая"
+hh.ru,Python Big Data Developer,https://spb.hh.ru/vacancy/55157761,,,,Nitka Technologies,Тбилиси
+hh.ru,Стажер QA (Auto),https://spb.hh.ru/vacancy/55900940,,,,"ПАО «МТС», Стажировки",Москва
+hh.ru,Middle Python backend developer,https://spb.hh.ru/vacancy/55233917,90000.0,180000.0,руб,Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем,"Москва, Аэропорт"
+hh.ru,Python Web Developer (Junior),https://spb.hh.ru/vacancy/54358620,60000.0,,руб,DNS Головной офис,Владивосток
+hh.ru,"Разработчик Python (Middle, Senior)",https://spb.hh.ru/vacancy/55088580,,,,NGENIX,"Москва, Аэропорт и еще 2 "
+hh.ru,"Стажер ""НАПРАВЛЕНИЕ ПО РАЗВИТИЮ ЦИФРОВЫХ ТЕХНОЛОГИЙ""",https://spb.hh.ru/vacancy/54667586,33200.0,33200.0,руб,АО ВМЗ,Выкса
+hh.ru,Python инженер (DevOps),https://spb.hh.ru/vacancy/55567373,,,,Группа Самолет,Москва
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55585044,,,,ООО Фриплэй,"Минск, Молодежная"
+hh.ru,Инженер по автоматизации тестирования (QA) / Python разработчик,https://spb.hh.ru/vacancy/55255075,,,,ООО Основа Лаб,Москва
+hh.ru,Data engineer,https://spb.hh.ru/vacancy/55253177,,180000.0,руб,"Hi, Rockits!",Москва
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/52433362,,,,АО РТИ,Пермь
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55897532,,,,Экспобанк,Казань
+hh.ru,Python-Разработчик (Управление голосовых сервисов),https://spb.hh.ru/vacancy/66121258,,,,Сбер для экспертов,Москва
+hh.ru,Middle/Senior Python-разработчик в команду Добычи данных,https://spb.hh.ru/vacancy/66066363,,,,2ГИС,Санкт-Петербург
+hh.ru,Стажер-аналитик,https://spb.hh.ru/vacancy/66067427,,,,ПАО КБ Уральский банк реконструкции и развития (УБРиР),"Екатеринбург, Площадь 1905 года"
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/50475098,220000.0,270000.0,руб,iCore (Integration Core),"Москва, Дубровка"
+hh.ru,Senior Python Engineer,https://spb.hh.ru/vacancy/55100948,250000.0,300000.0,руб,ООО Рекон Групп,Санкт-Петербург
+hh.ru,Middle/Senior Python-разработчик в команду Добычи данных,https://spb.hh.ru/vacancy/66064403,,,,2ГИС,Нижний Новгород
+hh.ru,Разработчик ПО на PHP7/Python,https://spb.hh.ru/vacancy/55357795,1000.0,3000.0,бел,ОАО АСБ Беларусбанк,"Минск, Петровщина"
+hh.ru,Python Developer (Middle),https://spb.hh.ru/vacancy/55517531,,,,Сбер. Data Science,Москва
+hh.ru,Специалист по автотестированию (Python),https://spb.hh.ru/vacancy/55046909,,,,Ростелеком-Солар,Москва
+hh.ru,Python developer (SberWorks),https://spb.hh.ru/vacancy/66107208,,,,Сбер. IT,"Москва, Верхние Котлы и еще 1 "
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55869466,,,,ООО ИСЕРВ,Чебоксары
+hh.ru,QA Automation Engineer (Python),https://spb.hh.ru/vacancy/55900178,,,,HiQo Solutions,Тбилиси
+hh.ru,"Инженер по автоматизации тестирования Python, Логистика, Сортировка",https://spb.hh.ru/vacancy/51785732,,,,Ozon Информационные технологии,Санкт-Петербург
+hh.ru,Database Developer,https://spb.hh.ru/vacancy/66080839,,,,ООО Твистеллар,Минск
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55858608,,,,ООО ПК Энергосбережение,Петрозаводск
+hh.ru,Tech lead (python),https://spb.hh.ru/vacancy/55553950,,,,ООО ВС Кэпитал,Ростов-на-Дону
+hh.ru,Senior python developer (computing frameworks),https://spb.hh.ru/vacancy/55480836,200000.0,300000.0,руб,Russian Quantum Center,Москва
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55512139,138000.0,161000.0,руб,КОНТРОЛ лизинг,"Москва, Маяковская и еще 2 "
+hh.ru,Senior Python Developer - AI/ML Infrastructure (to Canada/Serbia),https://spb.hh.ru/vacancy/54346657,8500.0,11000.0,USD,Behavox,Москва
+hh.ru,Senior Backend Python Developer продукт Audiogramm (MTS AI),https://spb.hh.ru/vacancy/49254587,250000.0,,руб,ПАО «МТС» ,"Москва, Курская и еще 2 "
+hh.ru,Backend разработчик Python,https://spb.hh.ru/vacancy/55184508,,,,билайн: ИТ и Digital,Москва
+hh.ru,Разработчик,https://spb.hh.ru/vacancy/51200595,,,,"Евразийский банк, АО",Алматы
+hh.ru,Blockchain Engineer,https://spb.hh.ru/vacancy/66081971,8000.0,12000.0,USD,Top Remote Talent,Москва
+hh.ru,Data scientist (computer vision),https://spb.hh.ru/vacancy/54141419,225000.0,,руб,АО Гознак,Москва
+hh.ru,Middle Data Scientist (клиентская аналитика),https://spb.hh.ru/vacancy/66115415,,,,"Лента, федеральная розничная сеть, IT ",Санкт-Петербург
+hh.ru,"Middle Python developer ""Eson""",https://spb.hh.ru/vacancy/55872047,,,,ПАО «МТС» ,Москва
+hh.ru,Python developer (middle),https://spb.hh.ru/vacancy/53275903,100000.0,170000.0,руб,ООО АйТи Мегастар,"Новосибирск, Октябрьская"
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55380690,150000.0,180000.0,руб,Платформа ОФД,Москва
+hh.ru,Python Developer (Cloud),https://spb.hh.ru/vacancy/55893082,,,,Arrival. Technology,Тбилиси
+hh.ru,Старший программист Python,https://spb.hh.ru/vacancy/55191865,,,,ЭР-Телеком,Пермь
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/66122688,,,,Target ID,Москва
+hh.ru,Python-разработчик (middle),https://spb.hh.ru/vacancy/55464898,,,,билайн: ИТ и Digital,Москва
+hh.ru,Преподаватель Python,https://spb.hh.ru/vacancy/54969732,,,,ООО Компьютерная Академия IT STEP,Ташкент
+hh.ru,Python-разработчик Wizard,https://spb.hh.ru/vacancy/42202109,,,,Тинькофф,Челябинск
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55128504,,,,Admitad,"Москва, Дмитровская"
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55293015,,,,Star-Staff,Москва
+hh.ru,Data Analyst/Data Scientist,https://spb.hh.ru/vacancy/54718893,,,,ООО Лайфтех,Минск
+hh.ru,Middle Python developer,https://spb.hh.ru/vacancy/66104237,1000.0,,USD,SoftMobile,Санкт-Петербург
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/66116961,,,,Playgendary,Акташ (Узбекистан)
+hh.ru,Junior+ CV/ML developer,https://spb.hh.ru/vacancy/50533416,,,,Технологика,Новосибирск
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55862173,,150000.0,руб,ООО КонсалтПро,Томск
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/66076769,,,,Muse Group,Москва
+hh.ru,Младший QA/Специалист по тестированию,https://spb.hh.ru/vacancy/55869696,,,,Ростелеком-Солар,"Москва, Охотный ряд"
+hh.ru,Программист Go/Python (Cybsi),https://spb.hh.ru/vacancy/55873465,,,,Positive Technologies,Москва
+hh.ru,ETL Developer AirFlow + Python,https://spb.hh.ru/vacancy/54484186,,,,DBI,Ростов-на-Дону
+hh.ru,Middle/Senior Python разработчик,https://spb.hh.ru/vacancy/55038417,,,,Московский Кредитный Банк. ИТ-специалисты,Москва
+hh.ru,Python developer (Middle/Middle+),https://spb.hh.ru/vacancy/55878523,,,,ООО Финтех Айкью,Новосибирск
+hh.ru,Программист-математик,https://spb.hh.ru/vacancy/54285695,,,,ПАО «Газпром нефть»,Санкт-Петербург
+hh.ru,Python BackEnd Developer,https://spb.hh.ru/vacancy/49299511,,,,ООО Звук,"Москва, Кутузовская и еще 3 "
+hh.ru,Senior Python Back End Developer,https://spb.hh.ru/vacancy/66131514,,,,Missed,Ташкент
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/54330686,,,,DINS,Санкт-Петербург
+hh.ru,Аналитик в разработку отчетности,https://spb.hh.ru/vacancy/54374273,,,,Тинькофф,"Москва, Водный стадион"
+hh.ru,Инженер по тестированию ПО/QA engineer,https://spb.hh.ru/vacancy/55557312,,150000.0,руб,ООО RC Studio,Санкт-Петербург
+hh.ru,Python (Django) Developer HR платформа,https://spb.hh.ru/vacancy/55150260,,,,Группа Самолет,Москва
+hh.ru,Разработчик Python (Django),https://spb.hh.ru/vacancy/55866790,,,,АО АСТ,"Москва, Волгоградский проспект"
+hh.ru,DevOps инженер,https://spb.hh.ru/vacancy/55581168,100000.0,,руб,idaproject,Москва
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/55873396,2500.0,4000.0,USD,ООО Доксинбокс,Санкт-Петербург
+hh.ru,Middle/Senior Python-разработчик в команду Добычи данных,https://spb.hh.ru/vacancy/66066364,,,,2ГИС,Новосибирск
+hh.ru,Python Backend Developer,https://spb.hh.ru/vacancy/55905627,,,,Международная медиагруппа Россия сегодня (МИА Россия сегодня),Москва
+hh.ru,Математик-программист,https://spb.hh.ru/vacancy/55049847,,,,АО Рамакс Интернейшнл,Москва
+hh.ru,Аналитик данных,https://spb.hh.ru/vacancy/55868697,,,,ИП Бондаренко Сергей Сергеевич,Краснодар
+hh.ru,Product Analyst/Data Analyst,https://spb.hh.ru/vacancy/55435566,,,,Peter Partner,"Санкт-Петербург, Выборгская и еще 2 "
+hh.ru,Backend разработчик Python midlle,https://spb.hh.ru/vacancy/44070869,,,,"ГРЧЦ, ФГУП","Москва, Марьина Роща"
+hh.ru,Data Engineer (Big data),https://spb.hh.ru/vacancy/55030006,,,,Банк ВТБ (ПАО),Москва
+hh.ru,QA специалист (Python),https://spb.hh.ru/vacancy/55867815,,,,Сбер для экспертов,Нижний Новгород
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55098915,,,,Сбер. IT,Москва
+hh.ru,Data engineer (MLOps),https://spb.hh.ru/vacancy/66107360,,,,Сбер. Data Science,"Москва, Кутузовская и еще 1 "
+hh.ru,Разработчик Python (Middle),https://spb.hh.ru/vacancy/54504187,150000.0,150000.0,руб,НТА,"Санкт-Петербург, Ладожская"
+hh.ru,MLOps Backend-разработчик,https://spb.hh.ru/vacancy/50464787,800000.0,1200000.0,KZT,Kolesa Group,Алматы
+hh.ru,QA engineer,https://spb.hh.ru/vacancy/55060459,160000.0,,руб,Адалиск,Москва
+hh.ru,Team Lead Python в компанию KIWI.COM,https://spb.hh.ru/vacancy/66115673,,,,Бэнкс Софт Системс,Москва
+hh.ru,Программист Python Middle/Senior (МР),https://spb.hh.ru/vacancy/46694197,,,,Инфотекс Интернет Траст,Санкт-Петербург
+hh.ru,"Инженер по автоматизации тестирования Python, Логистика, Сортировка",https://spb.hh.ru/vacancy/51785731,,,,Ozon Информационные технологии,"Москва, Деловой центр и еще 1 "
+hh.ru,Middle Auto QA (Python) specialist,https://spb.hh.ru/vacancy/66120687,,3000.0,USD,"Hi, Rockits!",Москва
+hh.ru,Разработчик Computer Vision,https://spb.hh.ru/vacancy/54555201,,,,ООО КСОР,"Москва, Балтийская и еще 2 "
+hh.ru,Python Developer (Сетевой инженер),https://spb.hh.ru/vacancy/53825557,,,,ООО ТаймВэб,"Санкт-Петербург, Московские ворота"
+hh.ru,Backend разработчик,https://spb.hh.ru/vacancy/55899241,,90000.0,руб,CG Tribe,Ижевск
+hh.ru,Программист Python Middle/Senior (ЛК),https://spb.hh.ru/vacancy/53378305,,,,Инфотекс Интернет Траст,Уфа
+hh.ru,Data Scientist (Middle),https://spb.hh.ru/vacancy/50630870,,,,билайн: ИТ и Digital,Москва
+hh.ru,Middle backend-разработчик Python,https://spb.hh.ru/vacancy/54588979,,,,ИТЕРАНЕТ,"Москва, Киевская"
+hh.ru,Middle Python developer (remote),https://spb.hh.ru/vacancy/55182330,,,,ООО Анлимитед Продакшен,Москва
+hh.ru,"Python developer (преподаватель курсов ""Программирование на Python"")",https://spb.hh.ru/vacancy/66118311,,,,ООО Европейский центр разработки программного обеспечения,Минск
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/66141563,,,,ПАО Первая Грузовая Компания,"Москва, Бауманская и еще 2 "
+hh.ru,Data scientist (Персонализация),https://spb.hh.ru/vacancy/54829296,,,,"Компания «СПОРТМАСТЕР», Sportmaster Lab",Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55101079,,,,"Технологии Доверия, Департамент Консалтинг","Москва, Белорусская"
+hh.ru,Backend Developer (Python),https://spb.hh.ru/vacancy/54146105,,,,"РОССТ, РА","Москва, Бауманская"
+hh.ru,Python программист (Наставник онлайн-курса по Python),https://spb.hh.ru/vacancy/55299582,,75000.0,руб,Hexlet,Москва
+hh.ru,Преподаватель Python Django,https://spb.hh.ru/vacancy/54671525,,,,ООО Компьютерная Академия IT STEP,Ташкент
+hh.ru,Инженер данных/ Разработчик SQL,https://spb.hh.ru/vacancy/55304475,,,,ELEGANZZA,Москва
+hh.ru,Data Analyst/Специалист по аналитике данных,https://spb.hh.ru/vacancy/55904898,,,,ООО ЭЛ-Лаб,Тбилиси
+hh.ru,Data analyst (Junior),https://spb.hh.ru/vacancy/50247684,60000.0,,руб,DNS Головной офис,Владивосток
+hh.ru,"Python developer (DWH, ETL)",https://spb.hh.ru/vacancy/55872680,,,,ПАО Промсвязьбанк,"Москва, Сокольники"
+hh.ru,Аналитик,https://spb.hh.ru/vacancy/66084717,,,,BANZAI.GAMES,Москва
+hh.ru,Go разработчик / GoLang Developer,https://spb.hh.ru/vacancy/55860371,180000.0,410000.0,руб,ООО ЗамЗамТехнолоджи,Новосибирск
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/54330685,,,,DINS,Тбилиси
+hh.ru,Team leader (Python),https://spb.hh.ru/vacancy/66080157,,,,T-DIGITAL,Москва
+hh.ru,Python BackEnd Developer (Rec&Search),https://spb.hh.ru/vacancy/54913682,,,,ООО Звук,"Москва, Кутузовская и еще 3 "
+hh.ru,Программист Python Middle/Senior (МР),https://spb.hh.ru/vacancy/46694196,,,,Инфотекс Интернет Траст,Москва
+hh.ru,QA Specialist (Специалист по тестированию),https://spb.hh.ru/vacancy/48700082,,,,Lesta Studio (St.Petersburg / Moscow),Санкт-Петербург
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55221864,110000.0,,руб,ООО ТендерПро,Нижний Новгород
+hh.ru,Data-analyst (удаленно),https://spb.hh.ru/vacancy/53088820,,,,билайн: ИТ и Digital,Москва
+hh.ru,Middle Data Engineer,https://spb.hh.ru/vacancy/55415464,,,,Playrix,Москва
+hh.ru,Python разработчик (senior) (backend) / Backend Team lead,https://spb.hh.ru/vacancy/54589895,,300000.0,руб,ООО Лендсбэй,"Москва, Площадь Гагарина"
+hh.ru,QA Automation Engineer (Python),https://spb.hh.ru/vacancy/54221469,,,,AWEM,Минск
+hh.ru,Python разработчик в Yandex Pay,https://spb.hh.ru/vacancy/54792994,,,,Яндекс,Москва
+hh.ru,Инженер-программист (Python),https://spb.hh.ru/vacancy/53864219,,,,Diakont,"Санкт-Петербург, Гражданский проспект"
+hh.ru,Data Scientist (Fintech),https://spb.hh.ru/vacancy/54694063,,,,РобоФинанс,Москва
+hh.ru,DevOps (DataOps) / Специалист по развертыванию и поддержке инфраструктуры данных,https://spb.hh.ru/vacancy/55508693,150000.0,,руб,АНО Инфокультура,"Москва, Кузнецкий мост и еще 2 "
+hh.ru,Разработчик ML,https://spb.hh.ru/vacancy/55042690,,,,АО АСТ,"Москва, Волгоградский проспект"
+hh.ru,Fullstack разработчик,https://spb.hh.ru/vacancy/54730773,200000.0,,руб,KRK Group,Москва
+hh.ru,Аналитик данных (ДАиМ),https://spb.hh.ru/vacancy/66095670,,,,ЗАО Банк Компаньон,Бишкек
+hh.ru,Senior Data Engineer (GKT Team),https://spb.hh.ru/vacancy/55146470,300000.0,,руб,Semrush,Сербия
+hh.ru,Team Lead/Senior QA Engineer,https://spb.hh.ru/vacancy/66141618,300000.0,,руб,JuicyScore,Москва
+hh.ru,Python BackEnd Developer (Content),https://spb.hh.ru/vacancy/54914590,,,,ООО Звук,"Москва, Кутузовская и еще 3 "
+hh.ru,"Data Engineer (Airflow, Kafka, MongoDB)",https://spb.hh.ru/vacancy/66131076,,,,МСП Банк,Москва
+hh.ru,"Программист PHP, Python",https://spb.hh.ru/vacancy/54973477,120000.0,120000.0,руб,Гарант,"Москва, Ломоносовский проспект"
+hh.ru,ML/AI Engineer (Remote),https://spb.hh.ru/vacancy/55262785,,,,ООО StikiPixels Ltd,Москва
+hh.ru,SQL-аналитик,https://spb.hh.ru/vacancy/55219069,75000.0,90000.0,руб,Email Soldiers,Рязань
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55539720,170000.0,270000.0,руб,Контур,Санкт-Петербург
+hh.ru,Программист С++ (Middle / Senior),https://spb.hh.ru/vacancy/55530625,180000.0,,руб,ООО КВАНТ ПРОГРАММ,"Москва, Перово"
+hh.ru,"Стажёр-инженер по информационной безопасности (Направление информационной безопасности, группа SOC)",https://spb.hh.ru/vacancy/55849337,,,,Ozon Информационные технологии,Москва
+hh.ru,QA Automation Engineer (Python),https://spb.hh.ru/vacancy/55106161,,,,YADRO,"Нижний Новгород, Горьковская"
+hh.ru,Python\C++ разработчик в CM.Expert (Яндекс Вертикали),https://spb.hh.ru/vacancy/55051808,,,,Яндекс,Санкт-Петербург
+hh.ru,Automation QA (Python),https://spb.hh.ru/vacancy/29323728,,,,МойОфис,"Москва, Пушкинская и еще 2 "
+hh.ru,Junior Python Developer,https://spb.hh.ru/vacancy/55485721,,,,Актив,Москва
+hh.ru,Программист / Разработчик Python/Django Junior,https://spb.hh.ru/vacancy/55503296,50000.0,90000.0,руб,CATAPULTO.RU,"Москва, Павелецкая и еще 1 "
+hh.ru,Python Разработчик / Team Lead,https://spb.hh.ru/vacancy/55079897,,,,Медиалогия,"Москва, Дмитровская"
+hh.ru,Middle Backend-разработчик Python (Flask),https://spb.hh.ru/vacancy/54416691,,,,ITECH,Ульяновск
+hh.ru,Data engineer,https://spb.hh.ru/vacancy/55061324,,,,Лига Цифровой Экономики,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55564271,,,,BrainGarden,Ташкент
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55579639,,200000.0,руб,АО АО НТЦ Атлас,"Москва, Марьина Роща"
+hh.ru,Python Backend Team Lead - (Remote),https://spb.hh.ru/vacancy/55213754,5000.0,,USD,Novakid Inc,Москва
+hh.ru,Senior Python Developer в международную компанию здоровья,https://spb.hh.ru/vacancy/55171010,,,,Welltory,Москва
+hh.ru,Стажер по нагрузочному тестированию,https://spb.hh.ru/vacancy/55896998,,,,ЛАНИТ. Департамент корпоративных систем,Самара
+hh.ru,Ведущий инженер-программист ML,https://spb.hh.ru/vacancy/55254774,,,,"Общ. орг. Институт инженерной физики, МОУ",Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55279791,,,,ТОО iMAS GROUP,Семей
+hh.ru,Python (Senior) Developer,https://spb.hh.ru/vacancy/66114375,,,,Antal Russia,Москва
+hh.ru,Data аналитик/Риск-менеджер,https://spb.hh.ru/vacancy/52122811,,,,АО Банк ЦентрКредит,Алматы
+hh.ru,QA Automation Engineer (Python),https://spb.hh.ru/vacancy/55106109,,,,YADRO,"Москва, Краснопресненская и еще 1 "
+hh.ru,Senior Automation QA (Python),https://spb.hh.ru/vacancy/38520777,,,,МойОфис,"Москва, Пушкинская и еще 2 "
+hh.ru,Python middle разработчик,https://spb.hh.ru/vacancy/55575305,80000.0,,руб,ООО Компания ЭКСПЕРТ,Смоленск
+hh.ru,Golang/Python developer,https://spb.hh.ru/vacancy/55432384,,,,more.tv,"Москва, Тульская"
+hh.ru,Инженер по данным (Data Engineer),https://spb.hh.ru/vacancy/55141805,,,,Okko,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/54893598,,,,Сбер. IT,"Москва, Кожуховская"
+hh.ru,Ведущий Python-developer,https://spb.hh.ru/vacancy/51240931,243000.0,415000.0,руб,Тензор,Ярославль
+hh.ru,Ведущий инженер (программист),https://spb.hh.ru/vacancy/66118824,,,,АО Газпром Диагностика,Саратов
+hh.ru,Инженер-разработчик Python,https://spb.hh.ru/vacancy/53928637,,,,АО В2В Трэйд,Москва
+hh.ru,Data Quality analyst,https://spb.hh.ru/vacancy/55483702,,,,Группа Самолет,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55568157,,,,ООО «Газпромнефть Бизнес-сервис»,Санкт-Петербург
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55593783,,,,ООО ИЦ АЙ-ТЕКО,Москва
+hh.ru,Инженер по тестированию (QA Automation Engineer),https://spb.hh.ru/vacancy/66091147,,160000.0,руб,НТЦ Радуга,Москва
+hh.ru,Marketing Analyst,https://spb.hh.ru/vacancy/55438286,,,,Beresnev Games,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/54801514,,,,НСК,"Москва, Молодежная"
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/53576515,,,,ООО Интеллектика,Ростов-на-Дону
+hh.ru,Full-Stack разработчик (технический департамент),https://spb.hh.ru/vacancy/66120156,,,,VK,"Москва, Аэропорт"
+hh.ru,Инженер-программист,https://spb.hh.ru/vacancy/54460149,115000.0,150000.0,руб,ООО ВКО Медпром,"Санкт-Петербург, Звёздная и еще 2 "
+hh.ru,Game Data Analyst,https://spb.hh.ru/vacancy/55856606,,,,ООО СтаркГеймз,"Минск, Фрунзенская"
+hh.ru,Web-разработчик Python,https://spb.hh.ru/vacancy/54850551,,,,АКРИХИН,"Москва, Курская"
+hh.ru,Junior разработчик C++,https://spb.hh.ru/vacancy/54495865,60000.0,80000.0,руб,"АРМО, ГК","Москва, Динамо и еще 2 "
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/66116145,,,,Playgendary,Сербия
+hh.ru,Data Scientist (Marketplace Efficiency),https://spb.hh.ru/vacancy/55485778,,,,inDriver,Москва
+hh.ru,Ведущий тестировщик-автоматизатор (python),https://spb.hh.ru/vacancy/55894527,150000.0,,руб,Сфера,"Москва, Шоссе Энтузиастов"
+hh.ru,Game Analyst (Product Analyst),https://spb.hh.ru/vacancy/55872121,,,,ТОО MadOut Games,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55519062,,,,ООО Сбербанк-Телеком,Москва
+hh.ru,Python разработчик (Middle),https://spb.hh.ru/vacancy/55564910,200000.0,260000.0,руб,ООО Лаборатория Наносемантика,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55523282,,,,Сбер для экспертов,Екатеринбург
+hh.ru,Middle AI разработчик для мобильных приложений,https://spb.hh.ru/vacancy/55598187,150000.0,,руб,ООО Глобус ИТ,Москва
+hh.ru,Backend Developer (Go),https://spb.hh.ru/vacancy/55513712,200000.0,,руб,ЛАЙФСТРИМ,Москва
+hh.ru,Портфельный аналитик,https://spb.hh.ru/vacancy/52879758,,,,Eqvanta,Москва
+hh.ru,Преподаватель программирования на языке Python в IT-куб (Yandex лицей),https://spb.hh.ru/vacancy/53807875,,,,МАОУ Лицей №22 Надежда Сибири,Новосибирск
+hh.ru,Senior BackEnd-разработчик (Python),https://spb.hh.ru/vacancy/66145793,,,,АО АйСи Сервис,Симферополь
+hh.ru,Middle Backend / Бэкэнд разработчик,https://spb.hh.ru/vacancy/55536450,150000.0,230000.0,руб,ООО Секьюр-Ти,"Москва, Достоевская и еще 2 "
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/49955680,90000.0,,руб,it-aces.com,Ярославль
+hh.ru,Ручной тестер с навыками автоматизации,https://spb.hh.ru/vacancy/55342667,,,,KOTELOV,"Санкт-Петербург, Гостиный двор и еще 1 "
+hh.ru,Программист по автоматизации тестирования компиляторов,https://spb.hh.ru/vacancy/55126300,,,,АО МЦСТ,"Москва, Ленинский проспект"
+hh.ru,Python разработчик в Яндекс ID,https://spb.hh.ru/vacancy/54955540,,,,Яндекс,Москва
+hh.ru,Аналитик данных (Data Scientist),https://spb.hh.ru/vacancy/55514389,100000.0,200000.0,руб,Интеллектуальные решения,Москва
+hh.ru,Эксперт автоматизации SOC (Python Developer со знанием DevOps),https://spb.hh.ru/vacancy/54467774,,,,ПАО Ростелеком,Москва
+hh.ru,Аналитик данных (Middle),https://spb.hh.ru/vacancy/49093690,100000.0,,руб,DNS Головной офис,Владивосток
+hh.ru,Доцент Департамента анализа данных и машинного обучения,https://spb.hh.ru/vacancy/53555736,90000.0,250000.0,руб,Финансовый университет при Правительстве РФ,"Москва, Рязанский проспект"
+hh.ru,Аналитик Данных,https://spb.hh.ru/vacancy/55585614,,,,"РЕСО-Гарантия, САО",Москва
+hh.ru,Senior Data Engineer (GKT Team),https://spb.hh.ru/vacancy/55146468,300000.0,,руб,Semrush,Армения
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55550808,,,,Karuna,Санкт-Петербург
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/55853838,,,,Selecty,Москва
+hh.ru,QA Mobile Automation Engineer (Python),https://spb.hh.ru/vacancy/55215125,120000.0,,руб,Gameram,Москва
+hh.ru,Разработчик на Python в Практикум,https://spb.hh.ru/vacancy/55543997,,,,Яндекс,Санкт-Петербург
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55869881,,,,ЕДИНЫЙ ЦУПИС,Санкт-Петербург
+hh.ru,QA Engineer,https://spb.hh.ru/vacancy/55150634,,,,ANABAR,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/43910922,,,,Диалог Регионы,"Москва, Парк культуры и еще 2 "
+hh.ru,Старший инженер данных TDS / Data engineer,https://spb.hh.ru/vacancy/54972253,,,,билайн: ИТ и Digital,Москва
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55072645,200000.0,,руб,ООО РБ,"Москва, Калужская"
+hh.ru,Senior python developer,https://spb.hh.ru/vacancy/55588936,,,,HintHero,Тбилиси
+hh.ru,Pуthon developer (Flask/Django/FastAPI),https://spb.hh.ru/vacancy/55041908,150000.0,,руб,bobday company,Краснодар
+hh.ru,QA Инженер по ручному тестированию на проект Huntpoint (Linux),https://spb.hh.ru/vacancy/55567303,,,,Group-IB,Москва
+hh.ru,Математик-программист,https://spb.hh.ru/vacancy/55138523,,,,ООО Урал-Сервис-Групп,Челябинск
+hh.ru,Senior Python Developer в международную компанию здоровья,https://spb.hh.ru/vacancy/55171012,,,,Welltory,Сочи
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/54201785,4000.0,5000.0,EUR,Wanted,Москва
+hh.ru,Backend QA Engineer,https://spb.hh.ru/vacancy/54354487,150000.0,,руб,ООО Видео 247,"Санкт-Петербург, Беговая"
+hh.ru,Python/django developer,https://spb.hh.ru/vacancy/54914762,170000.0,,руб,ReTech Labs,Томск
+hh.ru,Программист-Python,https://spb.hh.ru/vacancy/49250843,,,,ООО Регистратор доменных имен РЕГ.РУ,Москва
+hh.ru,Маркетинговый аналитик (MY.GAMES),https://spb.hh.ru/vacancy/55892530,,,,"VK, MY.GAMES",Москва
+hh.ru,Backend разработчик (python),https://spb.hh.ru/vacancy/55593404,,,,ITGLOBAL.COM,"Санкт-Петербург, Чернышевская"
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/66079280,,,,Сбер. IT,Москва
+hh.ru,Python - программист / автоматизатор,https://spb.hh.ru/vacancy/51940326,,,,АО ИнфоТеКС,"Санкт-Петербург, Чернышевская"
+hh.ru,Lead QA Automation (Python),https://spb.hh.ru/vacancy/55529588,,,,Whoosh (ООО Вуш),"Москва, Баррикадная и еще 2 "
+hh.ru,Lead Python Developer,https://spb.hh.ru/vacancy/55537265,,,,Emphasoft,Санкт-Петербург
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/54308893,,,,ТОО Globerce Inc.,Алматы
+hh.ru,Инженер-программист Python,https://spb.hh.ru/vacancy/55545614,,,,EFIX GROUP,Москва
+hh.ru,Тестировщик ПО,https://spb.hh.ru/vacancy/55248323,100000.0,,руб,ООО Верме,Москва
+hh.ru,Senior python developer,https://spb.hh.ru/vacancy/55588935,,,,HintHero,Батуми
+hh.ru,DevOps инженер,https://spb.hh.ru/vacancy/55354856,170000.0,230000.0,руб,Кадровое агентство ЕВА,"Санкт-Петербург, Площадь Ленина и еще 1 "
+hh.ru,Gameplay Programmer,https://spb.hh.ru/vacancy/49844771,,,,Lesta Studio (St.Petersburg / Moscow),Санкт-Петербург
+hh.ru,QA тестировщик,https://spb.hh.ru/vacancy/55003542,200000.0,700000.0,KZT,ТОО Documentolog,Нур-Султан
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55885399,,,,ISPsystem,Москва
+hh.ru,Middle QA Engineer / Тестировщик,https://spb.hh.ru/vacancy/66147051,,170000.0,руб,Level.Travel,"Москва, Бауманская и еще 1 "
+hh.ru,Python-developer,https://spb.hh.ru/vacancy/55519914,,,,EXANTE,Москва
+hh.ru,Middle python разработчик,https://spb.hh.ru/vacancy/55565363,,,,АльфаСтрахование,Москва
+hh.ru,Middle QA специалист в команду Биллинга,https://spb.hh.ru/vacancy/47251783,200000.0,,руб,ООО HeadHunter::QA,Москва
+hh.ru,Python Разработчик,https://spb.hh.ru/vacancy/53382671,,,,Электронная торговая площадка Газпромбанка,Москва
+hh.ru,Senior Data Engineer,https://spb.hh.ru/vacancy/55281683,,,,inDriver,Москва
+hh.ru,Data Engineer (Junior),https://spb.hh.ru/vacancy/54718910,70000.0,,руб,DNS Головной офис,Владивосток
+hh.ru,"Senior QA auto (Python, iOS&Android): EdTech, remote, USD",https://spb.hh.ru/vacancy/66070744,,,,Hunt For You,Москва
+hh.ru,Python Developer команда интеграции (MTS AI),https://spb.hh.ru/vacancy/53884449,,,,"ПАО «МТС», IT","Москва, Курская и еще 2 "
+hh.ru,Разработчик python,https://spb.hh.ru/vacancy/54881284,,130000.0,руб,ООО Кадровик,Владивосток
+hh.ru,Senior Python-разработчик (команда CXHub),https://spb.hh.ru/vacancy/55897836,,,,VK,"Москва, Гражданская и еще 1 "
+hh.ru,Python разработчик в команду Облака,https://spb.hh.ru/vacancy/55481426,,,,КРОК,Москва
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/66079136,,,,Сбер. IT,Москва
+hh.ru,Архитектор КХД,https://spb.hh.ru/vacancy/66081411,,,,СИТИЛИНК,"Москва, Мякинино"
+hh.ru,Data Scientist (middle+/senior),https://spb.hh.ru/vacancy/54974571,,,,"РЕСО-Гарантия, САО",Москва
+hh.ru,Разработчик Python (Центр автоматизации сетевых сервисов),https://spb.hh.ru/vacancy/55107817,,,,Сбер для экспертов,Москва
+hh.ru,Rust Developer,https://spb.hh.ru/vacancy/54436100,2300.0,,USD,IT Solutions Management International Pte. Ltd.,Москва
+hh.ru,Data scientist (RecSys),https://spb.hh.ru/vacancy/55594648,,,,Сбер. Data Science,"Москва, Кутузовская и еще 1 "
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/55442024,200000.0,,руб,ООО Манзони,Санкт-Петербург
+hh.ru,Ведущий инженер по данным,https://spb.hh.ru/vacancy/54723241,,,,ТОО One technologies,Алматы
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55885394,,,,ISPsystem,Новосибирск
+hh.ru,Senior Data Engineer,https://spb.hh.ru/vacancy/54567247,,,,inDriver,"Москва, Белорусская"
+hh.ru,Automation QA Specialist,https://spb.hh.ru/vacancy/52346968,,,,Lesta Studio (St.Petersburg / Moscow),Санкт-Петербург
+hh.ru,Middle/Senior/Lead Python-разработчик,https://spb.hh.ru/vacancy/55539724,160000.0,,руб,Контур,Иваново (Ивановская область)
+hh.ru,Data / ML Engineer (Персонализация),https://spb.hh.ru/vacancy/45498560,,,,"Компания «СПОРТМАСТЕР», Sportmaster Lab",Москва
+hh.ru,Backend Разработчик (Python),https://spb.hh.ru/vacancy/55473273,,,,ПАО Первая Грузовая Компания,"Москва, Бауманская и еще 2 "
+hh.ru,Программист Python (дистанционно),https://spb.hh.ru/vacancy/55412342,,,,ООО СберМедИИ,Москва
+hh.ru,Вирусный аналитик в разработку продукта,https://spb.hh.ru/vacancy/55229747,,,,Group-IB,Москва
+hh.ru,Team Lead/Senior QA Engineer,https://spb.hh.ru/vacancy/55051122,300000.0,,руб,JuicyScore,Новосибирск
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55511038,,266000.0,руб,Skipp.pro,Москва
+hh.ru,Ведущий инженер по тестированию на проникновение (pentest),https://spb.hh.ru/vacancy/55164461,2000.0,3500.0,USD,Нг Чи Хонг,Санкт-Петербург
+hh.ru,Вирусный аналитик / реверс-инженер,https://spb.hh.ru/vacancy/55045978,,,,Group-IB,Москва
+hh.ru,Инженер-программист,https://spb.hh.ru/vacancy/54410250,,,,АО КНИИТМУ,Калуга
+hh.ru,Middle/Senior QA Automation Engineer (Remote),https://spb.hh.ru/vacancy/66075793,1500.0,2500.0,USD,ООО АСД Технолоджиз,Нижний Новгород
+hh.ru,QA Mobile Automation Engineer (Python),https://spb.hh.ru/vacancy/55215126,120000.0,,руб,Gameram,Ульяновск
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/55891191,,,,Новео,Санкт-Петербург
+hh.ru,Преподаватель языков программирования,https://spb.hh.ru/vacancy/55524268,,400000.0,KZT,ТОО 2дэй академи,"Алматы, Москва"
+hh.ru,"Fullstack-разработчик (Python, JavaScript)",https://spb.hh.ru/vacancy/55500589,,900000.0,KZT,ТОО КМГ-Кумколь,Нур-Султан
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/53381496,,,,ООО ТАКСТЕЛЕКОМ,Санкт-Петербург
+hh.ru,Системный аналитик-стажер,https://spb.hh.ru/vacancy/55483644,60000.0,,руб,"СевенТест, НТЦ",Санкт-Петербург
+hh.ru,Lead Python (Fullstack),https://spb.hh.ru/vacancy/55453993,250000.0,,руб,Siberian Wellness,"Новосибирск, Площадь Гарина-Михайловского"
+hh.ru,Junior IT Operations Engineer (Big Data),https://spb.hh.ru/vacancy/55481370,,,,"ПАО «МТС», IT","Москва, Технопарк"
+hh.ru,Системный инженер (DevOps),https://spb.hh.ru/vacancy/55319554,,,,"А1. Информационные технологии, телеком",Минск
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55843383,,,,DIS Group,Санкт-Петербург
+hh.ru,Разработчик SAS,https://spb.hh.ru/vacancy/55062241,,,,Московский Кредитный Банк. ИТ-специалисты,"Москва, Цветной бульвар"
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/54880184,,,,АО Гринатом,Москва
+hh.ru,Преподаватель курса Python-разработчик,https://spb.hh.ru/vacancy/55437723,32400.0,50000.0,руб,Бруноям,Санкт-Петербург
+hh.ru,Middle/Senior/Lead Python-разработчик,https://spb.hh.ru/vacancy/55539728,160000.0,,руб,Контур,Ростов-на-Дону
+hh.ru,Специалист по тестированию,https://spb.hh.ru/vacancy/40585500,,,,ООО HeadHunter::QA,"Москва, Алексеевская"
+hh.ru,Middle/middle + программист Python,https://spb.hh.ru/vacancy/55409462,120000.0,150000.0,руб,АО Уфанет,Уфа
+hh.ru,Программист Python (Webscanner),https://spb.hh.ru/vacancy/55469780,,,,Positive Technologies,Самара
+hh.ru,Python Backend Developer (Django),https://spb.hh.ru/vacancy/55356832,50000.0,,руб,ООО Ранкс,Иннополис
+hh.ru,"Разработчик Python, ETL, Senior/Lead",https://spb.hh.ru/vacancy/53650710,,,,ООО Диплей,Москва
+hh.ru,IT-специалист,https://spb.hh.ru/vacancy/55374469,,,,ООО Производственный центр Ресурс,Тюмень
+hh.ru,Программист-разработчик,https://spb.hh.ru/vacancy/46086867,120000.0,,руб,ООО Строй Дом,Уфа
+hh.ru,Middle back-end разработчик/программист на Python,https://spb.hh.ru/vacancy/55149044,,,,Stroyportal.ru - интернет-площадка,Волгоград
+hh.ru,Senior QA Engineer,https://spb.hh.ru/vacancy/55297466,5000.0,6500.0,USD,COMTEK Inc.,Москва
+hh.ru,Middle Data Scientist/Data Analyst,https://spb.hh.ru/vacancy/52305783,,,,ООО START.RU,"Москва, Киевская и еще 1 "
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55416949,,,,Сбер для экспертов,Москва
+hh.ru,Middle/Senior/Lead Python-разработчик,https://spb.hh.ru/vacancy/55539733,160000.0,,руб,Контур,Ижевск
+hh.ru,Backend Python Developer (Team Lead),https://spb.hh.ru/vacancy/55567604,,,,АО Гринатом,Москва
+hh.ru,Разработчик Python (senior),https://spb.hh.ru/vacancy/55442461,,,,ООО МКК Киберлэндинг,Санкт-Петербург
+hh.ru,Backend разработчик (Python),https://spb.hh.ru/vacancy/55419397,,,,ООО Скайлав Рус,Красноярск
+hh.ru,Реверс-инженер,https://spb.hh.ru/vacancy/54462736,100000.0,160000.0,руб,ООО Селфсек,"Москва, Трубная и еще 2 "
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55497955,,,,Playgendary,Аксай (Казахстан)
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55591635,,,,АО ИНТЕКО,Москва
+hh.ru,"Data Scientist, Junior",https://spb.hh.ru/vacancy/52396404,,,,ООО Диплей,Омск
+hh.ru,Инженер-программист,https://spb.hh.ru/vacancy/53831446,60000.0,60000.0,руб,ФГУП НТЦ Орион,"Москва, Марьина Роща"
+hh.ru,Python разработчик (SberWorks),https://spb.hh.ru/vacancy/55086992,,,,Сбер. IT,"Москва, Верхние Котлы и еще 1 "
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55380324,100000.0,,руб,ООО ПРОС,Минск
+hh.ru,Data engineer,https://spb.hh.ru/vacancy/50278257,,,,"Компания «СПОРТМАСТЕР», Управление бизнесами",Москва
+hh.ru,Преподаватель Web-разработки на Python,https://spb.hh.ru/vacancy/54327561,80000.0,,руб,Алабуга. Международная школа,Москва
+hh.ru,Backend developer / Backend разработчик,https://spb.hh.ru/vacancy/55156231,150000.0,,руб,Ultimate Capital,Москва
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55348853,80000.0,120000.0,руб,ИП Мухин Дмитрий Сергеевич,Ростов-на-Дону
+hh.ru,Rust Developer,https://spb.hh.ru/vacancy/49052237,2300.0,,USD,IT Solutions Management International Pte. Ltd.,Минск
+hh.ru,Senior Software Engineer (Python+Go) at Orca Security,https://spb.hh.ru/vacancy/55196328,,,,ООО Он Зэ Спот Девелопмент,Минск
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/54976852,,,,ООО Ласт Левел,"Санкт-Петербург, Выборгская и еще 3 "
+hh.ru,"Middle Developer (C++, Python)",https://spb.hh.ru/vacancy/55441025,,250000.0,руб,Wanted,Москва
+hh.ru,C++/Python разработчик (Браузер),https://spb.hh.ru/vacancy/54918625,,,,VK,Москва
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/47155956,,,,ПАО Ростелеком,Москва
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/53382954,,,,ООО Аренадата Софтвер,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55400582,4300.0,,USD,Vital Partners,Армения
+hh.ru,"Data Scientist, Поиск и Каталог, NLP",https://spb.hh.ru/vacancy/55433924,,,,Ozon Информационные технологии,Москва
+hh.ru,Python/PL SQL Developer,https://spb.hh.ru/vacancy/54917886,,,,"ЕвроХим, Минерально-Химическая Компания","Москва, Павелецкая"
+hh.ru,Разработчик SQL,https://spb.hh.ru/vacancy/55862099,,,,QIWI,Пермь
+hh.ru,Преподаватель по программированию на Minecraft (удалённо),https://spb.hh.ru/vacancy/66113846,40000.0,,руб,TutGood,Москва
+hh.ru,MLOps Engineer,https://spb.hh.ru/vacancy/48937335,,,,Samsung Research Russia,"Москва, Белорусская и еще 1 "
+hh.ru,Full stack WEB-разработчик (Python),https://spb.hh.ru/vacancy/55471391,160000.0,220000.0,руб,ЛогЛаб,"Москва, Алтуфьево и еще 1 "
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/53415358,,,,Мегафон 1440,Москва
+hh.ru,Senior Python Developer (remote),https://spb.hh.ru/vacancy/54962671,250000.0,,руб,BestDoctor,Москва
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/55461302,,,,ITGLOBAL.COM,Санкт-Петербург
+hh.ru,ML инженер,https://spb.hh.ru/vacancy/54298585,,,,АО НПЦ ЭЛВИС,Зеленоград
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55303308,170000.0,270000.0,руб,Контур,Екатеринбург
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55393759,,,,Казанский (Приволжский) федеральный университет,"Казань, Кремлевская"
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55303375,170000.0,270000.0,руб,Контур,Челябинск
+hh.ru,Automation QA Engineer (Senior),https://spb.hh.ru/vacancy/54951136,250000.0,290000.0,руб,Бизнес-Азимут,Москва
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/53381497,,,,ООО ТАКСТЕЛЕКОМ,Казань
+hh.ru,Репетитор по программированию (Рython),https://spb.hh.ru/vacancy/54431127,,,,ООО Онлайн-школа Фоксфорд,Москва
+hh.ru,Data engineer,https://spb.hh.ru/vacancy/50642548,,,,KamaGames Studio,"Москва, Новокузнецкая"
+hh.ru,Аналитик (Маркетинг),https://spb.hh.ru/vacancy/54235932,,,,BANZAI.GAMES,Москва
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55302945,170000.0,270000.0,руб,Контур,Пермь
+hh.ru,Middle/Senior Python Developer,https://spb.hh.ru/vacancy/54374423,,,,Информационное агентство России ТАСС,Москва
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55302919,170000.0,270000.0,руб,Контур,Тюмень
+hh.ru,Full-stack разработчик,https://spb.hh.ru/vacancy/55208075,,120000.0,руб,SEVENCOM,Екатеринбург
+hh.ru,Разработчик ПО под Linux/Системный администратор Linux,https://spb.hh.ru/vacancy/55183008,90000.0,120000.0,руб,Радиофид,"Санкт-Петербург, Озерки и еще 1 "
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55304376,,,,Монополия,Санкт-Петербург
+hh.ru,System developer С++ / Python (middleware),https://spb.hh.ru/vacancy/55438670,,,,SberAutoTech,Москва
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55367570,,,,БАРС Груп,Воронеж
+hh.ru,Python Developer (Middle),https://spb.hh.ru/vacancy/54812750,,,,Flatstack,"Казань, Площадь Тукая"
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55318987,,220000.0,руб,SberTech,Санкт-Петербург
+hh.ru,Web-разработчик / Backend программист Python,https://spb.hh.ru/vacancy/55367183,80000.0,180000.0,руб,ORBIS,Калуга
+hh.ru,Разработчик SQL,https://spb.hh.ru/vacancy/55383858,160000.0,,руб,Пятёрочка. Офис,Москва
+hh.ru,Программист Python (Webscanner),https://spb.hh.ru/vacancy/55469775,,,,Positive Technologies,Москва
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/55290241,45000.0,,руб,ООО СИСТЕМЫ МОНИТОРИНГА,Тольятти
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/54877585,,150000.0,руб,ООО Кросстех Солюшнс Групп,"Москва, Беговая и еще 2 "
+hh.ru,Senior Python Developer (remote),https://spb.hh.ru/vacancy/55012550,250000.0,,руб,BestDoctor,Санкт-Петербург
+hh.ru,Senior Python Developer (MLOps tool + OpenSource / US-startup),https://spb.hh.ru/vacancy/55365278,6000.0,8000.0,USD,Hunt For You,Москва
+hh.ru,Разработчик Python (мониторинг инфраструктуры),https://spb.hh.ru/vacancy/54036822,,,,Сбер. IT,"Москва, Кожуховская"
+hh.ru,Аналитик-разработчик SQL / Python,https://spb.hh.ru/vacancy/54831154,,,,Офис «Азбука вкуса»,Москва
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55367571,,,,БАРС Груп,Челябинск
+hh.ru,Python разработчик (Middle),https://spb.hh.ru/vacancy/55376614,,,,ООО ФСК Агент,"Москва, Достоевская и еще 2 "
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/55046629,,,,ООО Ак Барс Цифровые Технологии,"Казань, Козья слобода"
+hh.ru,Backend разработчик Python (Middle),https://spb.hh.ru/vacancy/55330157,,,,ООО Artel,Ташкент
+hh.ru,Программист-разработчик C++/Qt (Middle),https://spb.hh.ru/vacancy/55899253,90000.0,,руб,CG Tribe,Ижевск
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55559243,,,,ООО Код Тех,Москва
+hh.ru,Разработчик Python (middle),https://spb.hh.ru/vacancy/55422563,,,,ООО МКК Киберлэндинг,Санкт-Петербург
+hh.ru,Python-разработчик во внутренний каталог сервисов,https://spb.hh.ru/vacancy/55327795,,,,Яндекс,Москва
+hh.ru,Data-Scientist/Researcher,https://spb.hh.ru/vacancy/55348074,,,,Star-Staff,Москва
+hh.ru,Hadoop\SQL Developer(Middle\Senior),https://spb.hh.ru/vacancy/52661394,,,,MASTERDATA,Москва
+hh.ru,Backend Software Engineer,https://spb.hh.ru/vacancy/55905938,1500.0,3000.0,USD,Rainforest Life Pte Ltd,Москва
+hh.ru,Инженер-программист на Python,https://spb.hh.ru/vacancy/55393797,,,,Казанский (Приволжский) федеральный университет,"Казань, Кремлевская"
+hh.ru,Разработчик Python (senior),https://spb.hh.ru/vacancy/54955475,,,,ООО МКК Киберлэндинг,Москва
+hh.ru,Data Scientist (CV Researcher),https://spb.hh.ru/vacancy/55559675,,,,Сбер. IT,Москва
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/50887320,,,,Rutube,Москва
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/54606545,,,,Норникель,Москва
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55160557,,,,Playgendary,Санкт-Петербург
+hh.ru,Data Аналитик,https://spb.hh.ru/vacancy/55466879,,,,АО Aitas KZ,Алматы
+hh.ru,Преподаватель Web-разработки на Python,https://spb.hh.ru/vacancy/54327563,80000.0,,руб,Алабуга. Международная школа,Новосибирск
+hh.ru,Аналитик-разработчик продуктовой отчетности,https://spb.hh.ru/vacancy/53181652,,,,Tele2,"Москва, Румянцево"
+hh.ru,Разработчик (Big Data),https://spb.hh.ru/vacancy/55442267,,,,"ПАО «МТС», IT",Псков
+hh.ru,Data / ML Engineer (Персонализация),https://spb.hh.ru/vacancy/55135252,,,,"Компания «СПОРТМАСТЕР», Sportmaster Lab",Краснодар
+hh.ru,Python Big Data Developer,https://spb.hh.ru/vacancy/55369117,,,,Nitka Technologies,Нур-Султан
+hh.ru,Senior Python разработчик,https://spb.hh.ru/vacancy/55197621,,,,INFOWATCH,Москва
+hh.ru,Разработчик C++,https://spb.hh.ru/vacancy/55192592,,,,ТРИДИВИ,Челябинск
+hh.ru,Senior Data Engineer в BI Team,https://spb.hh.ru/vacancy/54900936,,,,ООО ЭдСервер,Москва
+hh.ru,Application Security Engineer,https://spb.hh.ru/vacancy/54564624,,,,inDriver,"Москва, Белорусская"
+hh.ru,Backend / Fullstack разработчик,https://spb.hh.ru/vacancy/66062087,100000.0,150000.0,руб,Дизайнмастер,Новосибирск
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55525292,,,,Improvado,Алматы
+hh.ru,Data Engineer (команда автоматизации ML-процессов),https://spb.hh.ru/vacancy/55485869,,,,"VK, Социальные сети, Мой мир","Москва, Аэропорт"
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55304377,,,,Монополия,Москва
+hh.ru,Python разработчик,https://spb.hh.ru/vacancy/55424566,170000.0,230000.0,руб,ООО Интелкон,Москва
+hh.ru,Data Engineer (команда Big Data Infrastructure),https://spb.hh.ru/vacancy/55567461,,,,VK,Москва
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55309636,150000.0,200000.0,руб,РобоФинанс,Москва
+hh.ru,Senior Python Developer (remote),https://spb.hh.ru/vacancy/55012556,250000.0,,руб,BestDoctor,Пермь
+hh.ru,Senior Python разработчик (PT Sandbox),https://spb.hh.ru/vacancy/55470021,,,,Positive Technologies,Самара
+hh.ru,Python-разработчик во внутренний каталог сервисов,https://spb.hh.ru/vacancy/55327796,,,,Яндекс,Санкт-Петербург
+hh.ru,Data Analyst / Data Engineer,https://spb.hh.ru/vacancy/55545617,,,,МСП Банк,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55157374,,,,LG Electronics Inc.,"Санкт-Петербург, Чернышевская"
+hh.ru,Senior Python Developer (remote),https://spb.hh.ru/vacancy/55012552,250000.0,,руб,BestDoctor,Ростов-на-Дону
+hh.ru,Python TeamLead,https://spb.hh.ru/vacancy/55432518,,,,ООО «Газпромнефть-Региональные продажи»,Санкт-Петербург
+hh.ru,QA Automation engineer (Python),https://spb.hh.ru/vacancy/55549932,,,,ПАО ТрансКонтейнер,"Москва, Маяковская"
+hh.ru,Middle / Senior Python/Go developer,https://spb.hh.ru/vacancy/30548119,80000.0,200000.0,руб,ООО МедиаСофт,Ульяновск
+hh.ru,QA Automation Engineer (Python),https://spb.hh.ru/vacancy/55593224,,,,IBS,Санкт-Петербург
+hh.ru,Senior Data Scientist по направлению биоинформатика,https://spb.hh.ru/vacancy/55318384,,,,Институт искусственного интеллекта AIRI,Москва
+hh.ru,Backend developer (Python),https://spb.hh.ru/vacancy/54935116,,,,red_mad_robot,Томск
+hh.ru,Python-разработчик (удаленно),https://spb.hh.ru/vacancy/49056356,,,,ООО Строительный Двор,Москва
+hh.ru,Ведущий разработчик Python (Lead),https://spb.hh.ru/vacancy/47122311,,,,АО РТИ,Москва
+hh.ru,Team Lead / Backend developer Python/Django,https://spb.hh.ru/vacancy/55329673,,320000.0,руб,Российское общество Знание,Москва
+hh.ru,Разработчик SQL,https://spb.hh.ru/vacancy/55326718,,,,ПАО «Газпром нефть»,Санкт-Петербург
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/55331409,,,,АО ОКБ,"Москва, Павелецкая и еще 2 "
+hh.ru,BI Аналитик,https://spb.hh.ru/vacancy/55466255,,,,АО Aitas KZ,Алматы
+hh.ru,Senior Python разработчик (PT Sandbox),https://spb.hh.ru/vacancy/55470017,,,,Positive Technologies,Санкт-Петербург
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55276689,,,,Филиал ФТМ Хьюманс Европа ЛТД,Санкт-Петербург
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55107140,200000.0,,руб,ООО РБ,Санкт-Петербург
+hh.ru,Математик-программист,https://spb.hh.ru/vacancy/54971847,,,,АО НефтеТрансСервис,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55357013,,,,LeverX International,Болгария
+hh.ru,ML/DS инженер (CV),https://spb.hh.ru/vacancy/55342395,,,,ID R&D,"Санкт-Петербург, Выборгская"
+hh.ru,Data Scientist/Machine Learning Engineer (Developer),https://spb.hh.ru/vacancy/55343709,,,,Comexp,Санкт-Петербург
+hh.ru,Преподаватель направления «Разработка программного обеспечения Python»,https://spb.hh.ru/vacancy/55566281,,,,Санкт-Петербургский политехнический университет Петра Великого (ФГАОУ ВО СПбПУ),"Санкт-Петербург, Политехническая"
+hh.ru,Python developer (remote),https://spb.hh.ru/vacancy/55272367,,,,ООО Банк 131,Москва
+hh.ru,Разработчик python (junior),https://spb.hh.ru/vacancy/51277338,50000.0,,руб,АО Коммерческий банк «Хлынов»,Киров (Кировская область)
+hh.ru,"Data Scientist, Поиск и Каталог, NLP",https://spb.hh.ru/vacancy/55433917,,,,Ozon Информационные технологии,Санкт-Петербург
+hh.ru,Backend разработчик Python Senior (Проект Персональные данные),https://spb.hh.ru/vacancy/54261880,,,,"ГРЧЦ, ФГУП","Москва, Марьина Роща"
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/48958930,,,,Тинькофф,Ростов-на-Дону
+hh.ru,Senior Python-разработчик,https://spb.hh.ru/vacancy/52807213,,,,"VK, MY.GAMES",Санкт-Петербург
+hh.ru,Data scientist,https://spb.hh.ru/vacancy/55257381,,,,ПАО Промсвязьбанк,"Москва, Павелецкая"
+hh.ru,Python - разработчик (ALM 2.0 Динамическое моделирование баланса),https://spb.hh.ru/vacancy/55340537,,,,"Иннотех, Группа компаний",Москва
+hh.ru,Python-разработчик в команду клиентских сервисов,https://spb.hh.ru/vacancy/53835439,,,,Selectel,"Санкт-Петербург, Московские ворота"
+hh.ru,"Middle бэкенд-разработчик (Python, C++)",https://spb.hh.ru/vacancy/55346080,,,,ISPsystem,Санкт-Петербург
+hh.ru,Разработчик Python (удалённо),https://spb.hh.ru/vacancy/55190137,70000.0,,руб,ООО Каналсервис,Москва
+hh.ru,QA automation engineer (Python),https://spb.hh.ru/vacancy/55518118,,,,Сбер. IT,Москва
+hh.ru,Senior QA Automation (Python),https://spb.hh.ru/vacancy/55535739,,,,ООО Аренадата Софтвер,Санкт-Петербург
+hh.ru,Back-end Python Developer,https://spb.hh.ru/vacancy/54730642,,,,ООО СолбегСофт,Минск
+hh.ru,Junior Data Analyst,https://spb.hh.ru/vacancy/55279363,,,,Ridex GmbH,"Новосибирск, Площадь Ленина"
+hh.ru,"Data scientist / Machine learning engineer (команда рекомендаций и машинного обучения, ВКонтакте)",https://spb.hh.ru/vacancy/55357188,,,,"VK, Социальные сети, Одноклассники",Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/53651431,,,,Курсус,"Санкт-Петербург, Чернышевская"
+hh.ru,Ментор по Python,https://spb.hh.ru/vacancy/55386207,20000.0,40000.0,руб,Your CodeReview,Москва
+hh.ru,Data Engineer в команду Data Science Блока «Сеть Продаж»,https://spb.hh.ru/vacancy/54724724,,,,Сбер. Data Science,Москва
+hh.ru,Разработчик ETL (Python),https://spb.hh.ru/vacancy/55228285,200000.0,,руб,АО Синхро,"Москва, Выставочная"
+hh.ru,Lead QA engineer (Python),https://spb.hh.ru/vacancy/53167378,,,,Мегафон 1440,Москва
+hh.ru,Data Engineer (DWH),https://spb.hh.ru/vacancy/55310268,,,,АВИТО ТЕХ: разработка,"Москва, Белорусская"
+hh.ru,Python-разработчик на Django,https://spb.hh.ru/vacancy/54393291,,,,Riki.Team,Санкт-Петербург
+hh.ru,Разработчик RPA,https://spb.hh.ru/vacancy/55046852,,,,АО Гринатом,Красноярск
+hh.ru,Middle Python разработчик в SberDevices (инфраструктура поиска),https://spb.hh.ru/vacancy/54721570,,,,Сбер. IT,"Москва, Кутузовская и еще 1 "
+hh.ru,Senior Data Engineer / ETL-engineer,https://spb.hh.ru/vacancy/54262510,,,,Hoff,Краснодар
+hh.ru,"Инженер по автоматизации тестирования Python, Кастомные интеграции и селлер апи",https://spb.hh.ru/vacancy/47219792,,,,Ozon Информационные технологии,"Москва, Деловой центр и еще 2 "
+hh.ru,QA Automation Engineer (Python),https://spb.hh.ru/vacancy/55537266,,,,Employcity,Москва
+hh.ru,Программист-разработчик,https://spb.hh.ru/vacancy/54590414,,,,Новосибирский государственный университет,Новосибирск
+hh.ru,Разработчик инструментов DevOps,https://spb.hh.ru/vacancy/55596207,150000.0,300000.0,руб,SberTech,"Москва, Тульская"
+hh.ru,Разработчик электронных курсов в сфере IT,https://spb.hh.ru/vacancy/55272473,100000.0,,руб,ООО Кодебай,Москва
+hh.ru,Разработчик геоинформационных систем [id111016],https://spb.hh.ru/vacancy/53860553,,,,ПАО «Газпром нефть»,"Санкт-Петербург, Фрунзенская"
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55189194,170000.0,270000.0,руб,Контур,Москва
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/44310450,,,,Тинькофф,Санкт-Петербург
+hh.ru,Преподаватель Web-разработки на Python,https://spb.hh.ru/vacancy/54327560,80000.0,,руб,Алабуга. Международная школа,Самара
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/54920334,,,,Яндекс,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55248273,,,,ПАО Первая Грузовая Компания,"Москва, Бауманская и еще 2 "
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55188828,,,,Nexign (АО Нэксайн),Нижний Новгород
+hh.ru,Python Big Data Developer,https://spb.hh.ru/vacancy/55369116,,,,Nitka Technologies,Минск
+hh.ru,QA automation engineer (Python),https://spb.hh.ru/vacancy/55312954,,300000.0,руб,ООО Опендэв,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/45607335,,,,ООО Ростелеком Информационные Технологии,Краснодар
+hh.ru,Auto Web Tester,https://spb.hh.ru/vacancy/55537479,180000.0,,руб,ООО РБ,Москва
+hh.ru,QA automation engineer (Видеоаналитика),https://spb.hh.ru/vacancy/55335451,250000.0,350000.0,руб,Сибур,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55395726,,,,Andersen,Баку
+hh.ru,Senior Python разработчик,https://spb.hh.ru/vacancy/55427113,,,,КРОК,Москва
+hh.ru,Автор курса по Python,https://spb.hh.ru/vacancy/54676063,,,,Школа программирования Kodland,Москва
+hh.ru,Algorithm Engineer/Deep Learning Engineer/Machine Learning Engineer,https://spb.hh.ru/vacancy/55236459,200000.0,750000.0,руб,VanJee Technology,Москва
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/53315953,250000.0,,руб,АО ФинТех,"Москва, Полянка"
+hh.ru,Python compiler development engineer,https://spb.hh.ru/vacancy/55441158,,,,HUAWEI,"Нижний Новгород, Горьковская"
+hh.ru,Python-разработчик в Цифровые поверхности Салют (SberDevices),https://spb.hh.ru/vacancy/53287494,200000.0,400000.0,руб,Сбер. IT,"Москва, Кутузовская и еще 1 "
+hh.ru,Automation QA Intern,https://spb.hh.ru/vacancy/54785639,,,,a1qa,Ташкент
+hh.ru,Data-инженер хранилищ данных,https://spb.hh.ru/vacancy/55569542,,,,Московский метрополитен,Москва
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/52328840,100000.0,,руб,ООО Центр цифрового развития,Красноярск
+hh.ru,Middle/Senior Python Developer,https://spb.hh.ru/vacancy/55221601,180000.0,320000.0,руб,ООО МВП,Москва
+hh.ru,Senior python developer,https://spb.hh.ru/vacancy/54994479,,,,ООО Ак Барс Цифровые Технологии,Москва
+hh.ru,QA Automation (Python),https://spb.hh.ru/vacancy/55404630,,,,ООО ИЦ АЙ-ТЕКО,Москва
+hh.ru,Senior QA Automation (Python),https://spb.hh.ru/vacancy/55535730,,,,ООО Аренадата Софтвер,Ростов-на-Дону
+hh.ru,Python Big Data Developer,https://spb.hh.ru/vacancy/55369118,,,,Nitka Technologies,Армения
+hh.ru,Python программист (MaxPatrol 10),https://spb.hh.ru/vacancy/55252915,,,,Positive Technologies,Москва
+hh.ru,Backend разработчик (Python),https://spb.hh.ru/vacancy/55319207,,,,"РУСАЛ, Центр подбора персонала",Москва
+hh.ru,Разработчик на Python,https://spb.hh.ru/vacancy/55318176,,100000.0,руб,Gr8 Create,Санкт-Петербург
+hh.ru,Разработчик SQL,https://spb.hh.ru/vacancy/55383859,160000.0,,руб,Пятёрочка. Офис,Краснодар
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/52816957,,,,Тинькофф,Краснодар
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/55228331,,,,Группа НЛМК,Москва
+hh.ru,Разработчик Hadoop,https://spb.hh.ru/vacancy/53892020,,,,ПАО Ростелеком,Санкт-Петербург
+hh.ru,Python/Django-программист,https://spb.hh.ru/vacancy/55179711,,,,ООО Софтвэй++,Санкт-Петербург
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55462542,,,,Playgendary,Екатеринбург
+hh.ru,Разработчик Python(R&D),https://spb.hh.ru/vacancy/43558725,,,,Группа компаний Астра,"Москва, Верхние Котлы и еще 1 "
+hh.ru,Middle Data Engineer,https://spb.hh.ru/vacancy/55415467,,,,Playrix,Нур-Султан
+hh.ru,Machine Learning Engineer (отдел Перформанса),https://spb.hh.ru/vacancy/50038292,,,,VK,"Москва, Аэропорт"
+hh.ru,Аналитик данных,https://spb.hh.ru/vacancy/50596406,,,,ООО Ростелеком Информационные Технологии,Краснодар
+hh.ru,Разработчик Python,https://spb.hh.ru/vacancy/55229588,45000.0,60000.0,руб,ИП Черников Валерий Васильевич,Белгород
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/55351168,,,,"ПАО МегаФон, IT",Самара
+hh.ru,Senior (Python) Developer,https://spb.hh.ru/vacancy/55323433,1200000.0,,KZT,ТОО АНКОР Центральная Азия,Нур-Султан
+hh.ru,Разработчик С/С++,https://spb.hh.ru/vacancy/55202833,100000.0,200000.0,руб,AISA,"Санкт-Петербург, Чернышевская"
+hh.ru,Data Engineer направления разработки витрин данных,https://spb.hh.ru/vacancy/55376830,,,,"Иннотех, Группа компаний",Москва
+hh.ru,Программист-разработчик,https://spb.hh.ru/vacancy/55302397,35000.0,60000.0,руб,ООО Инфострой,Симферополь
+hh.ru,SQL разработчик (DWH),https://spb.hh.ru/vacancy/54889898,,,,Сравни,"Москва, Площадь Ильича и еще 1 "
+hh.ru,Python developer (middle/senior),https://spb.hh.ru/vacancy/55330129,,,,Сбер. IT,Санкт-Петербург
+hh.ru,"Преподаватель курсов «Программирование на языке Python», «Особенности тестирования на Python»",https://spb.hh.ru/vacancy/54939889,,,,Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана,"Москва, Бауманская"
+hh.ru,Разработчик python,https://spb.hh.ru/vacancy/55193968,15000.0,45000.0,руб,Спанова Кира,Москва
+hh.ru,Senior Python developer,https://spb.hh.ru/vacancy/54623880,200000.0,250000.0,руб,NETRIKA,Санкт-Петербург
+hh.ru,"Разработчик Python, ETL, Senior/Lead",https://spb.hh.ru/vacancy/52017335,,,,ООО Диплей,Новосибирск
+hh.ru,ML-разработчик в группу исследований машинного обучения,https://spb.hh.ru/vacancy/54944693,,,,Яндекс,"Москва, Парк культуры"
+hh.ru,Разработчик Python (Middle/Senior),https://spb.hh.ru/vacancy/55181057,,,,ООО ИЦ АЙ-ТЕКО,Москва
+hh.ru,"Наставник на курс ""Алгоритмы для разработчиков""",https://spb.hh.ru/vacancy/54278375,,,,Яндекс Практикум,Москва
+hh.ru,ML Engineer/ Data Scientist (WAF),https://spb.hh.ru/vacancy/55302233,,,,Positive Technologies,"Санкт-Петербург, Чернышевская"
+hh.ru,Аналитик - математик,https://spb.hh.ru/vacancy/55429502,,,,Altenar,Владимир
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55128327,,,,ЛАНИТ-ТЕРКОМ,"Санкт-Петербург, Чернышевская"
+hh.ru,"Middle бэкенд-разработчик (Python, C++)",https://spb.hh.ru/vacancy/55346083,,,,ISPsystem,Иннополис
+hh.ru,"Middle бэкенд-разработчик (Python, C++)",https://spb.hh.ru/vacancy/55346085,,,,ISPsystem,Пермь
+hh.ru,Middle/Senior Python Developer,https://spb.hh.ru/vacancy/55205592,200000.0,,руб,Scalable Solutions,Санкт-Петербург
+hh.ru,Стажер направления DevOps ОТП Банк,https://spb.hh.ru/vacancy/55153882,,,,FutureToday,Москва
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/50448223,,,,ООО Деко Системс,Москва
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55212183,,,,Тинькофф,Москва
+hh.ru,Middle/Senior Python разработчик,https://spb.hh.ru/vacancy/50878194,,,,QIWI,"Москва, Чертановская"
+hh.ru,Python-разработчик,https://spb.hh.ru/vacancy/55132626,,,,ООО Хокинг Бразерс,Владимир
+hh.ru,Программист Python,https://spb.hh.ru/vacancy/52799696,,,,ООО Аптека25,Владивосток
+hh.ru,Python-разработчик / Middle/Senior/TechLead,https://spb.hh.ru/vacancy/51970310,,,,KODE,Калининград
+hh.ru,Middle / Senior Python/Go developer,https://spb.hh.ru/vacancy/40379537,90000.0,200000.0,руб,ООО МедиаСофт,"Санкт-Петербург, Петроградская и еще 1 "
+hh.ru,"Инженер по автоматизации тестирования Python, Платформа, Поиск",https://spb.hh.ru/vacancy/50880902,,,,Ozon Информационные технологии,"Москва, Деловой центр и еще 2 "
+hh.ru,ML Engineer/ Data Scientist (WAF),https://spb.hh.ru/vacancy/55302220,,,,Positive Technologies,"Нижний Новгород, Горьковская"
+hh.ru,Python-разработчик в Цифровые поверхности Салют (Речевые технологии),https://spb.hh.ru/vacancy/53287489,,,,Сбер. IT,Москва
+hh.ru,Middle/Senior ETL разработчик (Phyton),https://spb.hh.ru/vacancy/55128339,,350000.0,руб,ООО АЙТИ.СПЕЙС,Москва
+hh.ru,Python & JAICP developer,https://spb.hh.ru/vacancy/55156709,,140000.0,руб,Cleverbots,Москва
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/50062793,,,,Тинькофф,Саратов
+hh.ru,Инженер мониторинга (Python),https://spb.hh.ru/vacancy/54178222,,,,АО РТ Лабс,Москва
+hh.ru,QA engineer (Python),https://spb.hh.ru/vacancy/55440089,,,,Sitronics KT,"Санкт-Петербург, Василеостровская"
+hh.ru,Data engineer (DWH),https://spb.hh.ru/vacancy/54451392,,,,Сравни,"Москва, Площадь Ильича и еще 1 "
+hh.ru,Python developer,https://spb.hh.ru/vacancy/54599022,,,,CoMagic.dev,Москва
+hh.ru,Разработчик Python (ML),https://spb.hh.ru/vacancy/54450826,,,,"Иннотех, Группа компаний",Москва
+hh.ru,Data Analyst / Аналитик данных,https://spb.hh.ru/vacancy/55196403,,,,ООО ИЦ АЙ-ТЕКО,Москва
+hh.ru,Senior python developer,https://spb.hh.ru/vacancy/50583641,,,,ООО Ак Барс Цифровые Технологии,Санкт-Петербург
+hh.ru,"Инженер по автоматизации тестирования Python, Логистика, Возвратный поток",https://spb.hh.ru/vacancy/54718261,,,,Ozon Информационные технологии,Москва
+hh.ru,Mobile QA Engineer (Python/Java),https://spb.hh.ru/vacancy/55582810,,,,ООО Перфект Арт,Москва
+hh.ru,Разработчик Python ML/обработка естественного языка,https://spb.hh.ru/vacancy/53545373,,,,ELMA,Киров (Кировская область)
+hh.ru,Аналитик данных,https://spb.hh.ru/vacancy/55357330,,,,"ПАО МегаФон, IT","Москва, Маяковская и еще 2 "
+hh.ru,Senior Automation QA (Python),https://spb.hh.ru/vacancy/46953809,,,,МойОфис,Новосибирск
+hh.ru,Middle Data Engineer,https://spb.hh.ru/vacancy/55415476,,,,Playrix,Воронеж
+hh.ru,Middle Data Engineer,https://spb.hh.ru/vacancy/55415472,,,,Playrix,Пермь
+hh.ru,Backend Engineer (Kotlin/C++/Python) at Joompay (to Riga),https://spb.hh.ru/vacancy/55189749,330000.0,,руб,Joom,"Москва, Динамо и еще 2 "
+hh.ru,"Преподаватель на курс ""Python""",https://spb.hh.ru/vacancy/55477605,,,,ООО ШоуШкола,Самара
+hh.ru,"Старший backend-разработчик (С++, Java, Python)",https://spb.hh.ru/vacancy/55157138,200000.0,300000.0,руб,Первый Бит,Москва
+hh.ru,"Data scientist / Machine learning engineer (команда рекомендаций и машинного обучения, ВКонтакте)",https://spb.hh.ru/vacancy/55357187,,,,"VK, Социальные сети, Одноклассники",Санкт-Петербург
+hh.ru,Data Engineer/ ML Engineer,https://spb.hh.ru/vacancy/55315633,,,,ПАО Ростелеком,Москва
+hh.ru,Разработчик Python Middle/Senior,https://spb.hh.ru/vacancy/55127337,350000.0,,руб,Кадровый холдинг ПРОФИЛЬ,Москва
+hh.ru,Python developer,https://spb.hh.ru/vacancy/55165283,30000.0,90000.0,руб,Телеграм-канал headlines (ИП Валеев Ренат Тагирович),Томск
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/48186415,,,,Тинькофф,Краснодар
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55180800,120000.0,200000.0,руб,ООО ИНФОРИОН,"Москва, Преображенская площадь и еще 2 "
+hh.ru,Python Developer в научный отдел (г. Ереван),https://spb.hh.ru/vacancy/55149614,,,,ООО БОСТОНДЖИН,Санкт-Петербург
+hh.ru,Инженер-тестировщик,https://spb.hh.ru/vacancy/51015077,,,,ООО Софт Инжиниринг,Кемерово
+hh.ru,Middle python разработчик,https://spb.hh.ru/vacancy/55288426,,,,Университет Иннополис,Казань
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55418809,,,,ООО МКК Киберлэндинг,Санкт-Петербург
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55356975,,,,LeverX International,Польша
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/50448224,,,,ООО Деко Системс,Калининград
+hh.ru,Python Engineer,https://spb.hh.ru/vacancy/55237077,,,,Ground01 LLC,США
+hh.ru,"Middle бэкенд-разработчик (Python, C++)",https://spb.hh.ru/vacancy/55346081,,,,ISPsystem,Новосибирск
+hh.ru,ML-инженер (команда суперприложения),https://spb.hh.ru/vacancy/52325304,,,,VK,Москва
+hh.ru,Стажер-исследователь веб-безопасности,https://spb.hh.ru/vacancy/55202207,40000.0,,руб,НеоБИТ,"Санкт-Петербург, Площадь Мужества"
+hh.ru,Data Scientist (ML) в Delivery Club,https://spb.hh.ru/vacancy/55257860,,,,"VK, Delivery Club","Москва, Сокол"
+hh.ru,Python/С++ developer,https://spb.hh.ru/vacancy/55148070,,,,Star-Staff,Москва
+hh.ru,Инженер Компьютерного Зрения - Collaborative SLAM,https://spb.hh.ru/vacancy/55301687,,,,RoadAR,Иннополис
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/55358419,,,,СберАвтоподписка,Москва
+hh.ru,"Data scientist (проект ""Моменты"")",https://spb.hh.ru/vacancy/47095350,,,,"VK, Социальные сети, Одноклассники",Санкт-Петербург
+hh.ru,Ведущий разработчик Python,https://spb.hh.ru/vacancy/54527537,,,,ООО ИЦ АЙ-ТЕКО,Москва
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/54969859,,,,ООО МКК Киберлэндинг,Москва
+hh.ru,Middle Data Engineer,https://spb.hh.ru/vacancy/55415466,,,,Playrix,Алматы
+hh.ru,Middle Data Engineer,https://spb.hh.ru/vacancy/55415469,,,,Playrix,Новосибирск
+hh.ru,Trainee Blockchain Developer,https://spb.hh.ru/vacancy/55261656,,,,Innowise Group / Фабрика инноваций и решений,Минск
+hh.ru,Data engineer в СберМаркет,https://spb.hh.ru/vacancy/55374209,,,,СберМаркет,Москва
+hh.ru,Инженер по автоматизированному тестированию (Python) (CERT),https://spb.hh.ru/vacancy/55356225,,,,Positive Technologies,"Санкт-Петербург, Чернышевская"
+hh.ru,"Преподаватель по дисциплине ""Аналитик данных""",https://spb.hh.ru/vacancy/55384859,,,,СИНЕРГИЯ,Москва
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/48958803,,,,Тинькофф,Екатеринбург
+hh.ru,Программист-разработчик,https://spb.hh.ru/vacancy/55343677,,,,ООО ГаммаЭкспертГрупп,Москва
+hh.ru,Data Ops Engineer,https://spb.hh.ru/vacancy/55287306,,,,Сбер для экспертов,Москва
+hh.ru,Вирусный аналитик/Malware Analyst,https://spb.hh.ru/vacancy/55265524,,,,ANY.RUN,Ульяновск
+hh.ru,Data Engineer / Инженер данных,https://spb.hh.ru/vacancy/54941971,,,,ООО ГПМ РТВ,Москва
+hh.ru,Lead ETL разработчик (Phyton) / Архитектор,https://spb.hh.ru/vacancy/55128401,,450000.0,руб,ООО АЙТИ.СПЕЙС,Москва
+hh.ru,ML Engineer/ Data Scientist (WAF),https://spb.hh.ru/vacancy/55302191,,,,Positive Technologies,"Новосибирск, Площадь Гарина-Михайловского"
+hh.ru,Senior python developer,https://spb.hh.ru/vacancy/50583645,,,,ООО Ак Барс Цифровые Технологии,Краснодар
+hh.ru,Разработчик SQL,https://spb.hh.ru/vacancy/55383856,160000.0,,руб,Пятёрочка. Офис,Казань
+hh.ru,Fullstack Developer (JS/Python),https://spb.hh.ru/vacancy/55199321,,,,Лаборатория Касперского,Москва
+hh.ru,"Инженер по автоматизированному тестированию (Python, CERT)",https://spb.hh.ru/vacancy/55356247,,,,Positive Technologies,Москва
+hh.ru,Python Developer в научный отдел (г. Ереван),https://spb.hh.ru/vacancy/55149615,,,,ООО БОСТОНДЖИН,Новосибирск
+hh.ru,Python developer DevOps,https://spb.hh.ru/vacancy/55157392,,,,QIWI,"Москва, Чертановская"
+hh.ru,Python программист (MaxPatrol 10),https://spb.hh.ru/vacancy/55252917,,,,Positive Technologies,Нижний Новгород
+hh.ru,Программист баз данных,https://spb.hh.ru/vacancy/54657532,150000.0,200000.0,руб,Глебовская Екатерина,Москва
+hh.ru,Python test automation engineer,https://spb.hh.ru/vacancy/54618396,,,,Центр разработки Orion Innovation (ранее MERA),Санкт-Петербург
+hh.ru,Инженер по автоматизированному тестированию (Python) (CERT),https://spb.hh.ru/vacancy/55356163,,,,Positive Technologies,"Москва, Преображенская площадь"
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55121288,,,,Лаборатория Касперского,"Москва, Водный стадион"
+hh.ru,Инженер-программист,https://spb.hh.ru/vacancy/55375971,35000.0,,руб,Информационный центр Главного управления МВД России по Ростовской области,Ростов-на-Дону
+hh.ru,Старший инженер по тестированию в продукт Global CRM,https://spb.hh.ru/vacancy/54927466,,,,АО ФИНАМ,"Москва, Пушкинская"
+hh.ru,Python-разработчик (middle),https://spb.hh.ru/vacancy/55159273,,130000.0,руб,Treebo.io,Москва
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/55318380,,,,Новео,Алматы
+hh.ru,Аналитик BI / Data Analyst,https://spb.hh.ru/vacancy/55121215,100000.0,170000.0,руб,Кадровое Агентство Уникальных Специалистов,"Санкт-Петербург, Адмиралтейская"
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55254482,,,,Леруа Мерлен. Центральный офис,Москва
+hh.ru,Python Developer в научный отдел (г. Ереван),https://spb.hh.ru/vacancy/55149616,,,,ООО БОСТОНДЖИН,Томск
+hh.ru,DevOps-инженер/стажер,https://spb.hh.ru/vacancy/55132833,,,,Яндекс,Санкт-Петербург
+hh.ru,Разработчик-исследователь компьютерного зрения,https://spb.hh.ru/vacancy/55269753,100000.0,,руб,Университет ИТМО,"Санкт-Петербург, Василеостровская"
+hh.ru,Lead Python / Django Developer,https://spb.hh.ru/vacancy/55128581,,400000.0,руб,ООО АЙТИ.СПЕЙС,Москва
+hh.ru,Инженер по автоматизации тестирования (Python),https://spb.hh.ru/vacancy/54634381,,,,BI.ZONE Направление Разработка,Томск
+hh.ru,Риск-аналитик (моделирование),https://spb.hh.ru/vacancy/49506163,,,,КРЕДИТ ЕВРОПА БАНК,Москва
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/55258362,,,,МТС. Маркетинг,"Минск, Парк Челюскинцев"
+hh.ru,Программист SQL (сопровождение),https://spb.hh.ru/vacancy/50619946,,,,БКС Банк IT & Digital,Новосибирск
+hh.ru,ML-engineer,https://spb.hh.ru/vacancy/55288536,,,,Университет Иннополис,Казань
+hh.ru,Python Developer,https://spb.hh.ru/vacancy/54751847,,,,ООО Деко Системс,Нижний Новгород
+hh.ru,Инженер по автоматизации тестирования Python (MultiScanner),https://spb.hh.ru/vacancy/50182555,,,,Positive Technologies,Новосибирск
+hh.ru,Data Analyst,https://spb.hh.ru/vacancy/55184431,,,,ООО МКК КапиталЪ-НТ,Санкт-Петербург
+hh.ru,Программист,https://spb.hh.ru/vacancy/55555622,,,,ТОО Caspian Offshore Construction Realty,Алматы
+hh.ru,Разработчик ANSI С,https://spb.hh.ru/vacancy/55349793,,,,ООО Аренадата Софтвер,Москва
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/54689300,,,,Schlumberger Telecommunications and Information Security Systems LLC. Офис,Новосибирск
+hh.ru,Python QA Automation,https://spb.hh.ru/vacancy/54984938,,,,EFIX GROUP,"Москва, Гражданская и еще 2 "
+hh.ru,Разработчик ANSI С,https://spb.hh.ru/vacancy/55349794,,,,ООО Аренадата Софтвер,Ростов-на-Дону
+hh.ru,Разработчик ANSI С,https://spb.hh.ru/vacancy/55349795,,,,ООО Аренадата Софтвер,Санкт-Петербург
+hh.ru,Data scientist,https://spb.hh.ru/vacancy/55131650,,,,Лига Цифровой Экономики,Москва
+hh.ru,C++ Machine Learning Engineer (Computer Vision),https://spb.hh.ru/vacancy/55313995,,4000.0,USD,IntelligiChain,Черногория
+hh.ru,Middle ML Engineer (работа с данными) SberDevices,https://spb.hh.ru/vacancy/52839227,,,,Сбер. IT,"Москва, Кутузовская"
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/55120850,,,,Бэнкс Софт Системс,Казань
+hh.ru,Разработчик ANSI С,https://spb.hh.ru/vacancy/55349797,,,,ООО Аренадата Софтвер,Пермь
+hh.ru,"QA Automation Engineer Senior (Python / Selenium), Remote work",https://spb.hh.ru/vacancy/55337564,,,,Новео,Москва
+hh.ru,Разработчик Hadoop/Big Data,https://spb.hh.ru/vacancy/55245850,,,,КОРУС Консалтинг,Москва
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55204849,,,,Тинькофф,Воронеж
+hh.ru,Разработчик ETL/Data Engineer,https://spb.hh.ru/vacancy/55126660,,,,Лига Цифровой Экономики,Москва
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55204817,,,,Тинькофф,Иннополис
+hh.ru,Data scientist (Антиспам),https://spb.hh.ru/vacancy/54693197,,,,"VK, Социальные сети, Одноклассники",Санкт-Петербург
+hh.ru,Разработчик облачных решений (ориентированных под МО),https://spb.hh.ru/vacancy/52161189,110000.0,,руб,Университет ИТМО,"Санкт-Петербург, Василеостровская"
+hh.ru,DL разработчик (удалённо),https://spb.hh.ru/vacancy/55167809,50000.0,100000.0,руб,Cpaaggregator.com,Москва
+hh.ru,Разработчик парсеров (Perl),https://spb.hh.ru/vacancy/55342780,,,,FIX,Москва
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55204829,,,,Тинькофф,Сочи
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/54692832,,,,"VK, Социальные сети, Одноклассники",Санкт-Петербург
+hh.ru,Middle Data Scientist,https://spb.hh.ru/vacancy/55204390,,,,Контур,Нижний Новгород
+hh.ru,Разработчик Hadoop/Big Data,https://spb.hh.ru/vacancy/55245845,,,,КОРУС Консалтинг,Санкт-Петербург
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/55120848,,,,Бэнкс Софт Системс,Нижний Новгород
+hh.ru,Data Scientist,https://spb.hh.ru/vacancy/55120851,,,,Бэнкс Софт Системс,Краснодар
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55204805,,,,Тинькофф,Казань
+hh.ru,Backend-разработчик,https://spb.hh.ru/vacancy/55057945,,,,ООО DATUM Group (Датум Групп),Ростов-на-Дону
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55205306,,,,Тинькофф,Челябинск
+hh.ru,QA Engineer,https://spb.hh.ru/vacancy/55157821,150000.0,300000.0,руб,ИП Галлямов Раиль Нафисович,Москва
+hh.ru,Senior Python developer / Team Lead,https://spb.hh.ru/vacancy/55120772,181000.0,351000.0,руб,ProductFit,Казань
+hh.ru,"Преподаватель Python в IT-Колледж ""Сириус""",https://spb.hh.ru/vacancy/55164226,,,,Научно-Технологический Университет «Сириус»,Сочи
+hh.ru,Ведущий инженер по тестированию (Автотестировщик) / QAA,https://spb.hh.ru/vacancy/55277494,,,,ГК АГАТ,Нижний Новгород
+hh.ru,Аналитик-разработчик,https://spb.hh.ru/vacancy/55232554,,,,Okko,Москва
+hh.ru,Автор работ по программированию Python,https://spb.hh.ru/vacancy/55202394,,90000.0,руб,Homework,Ростов-на-Дону
+hh.ru,Python developer (Senior),https://spb.hh.ru/vacancy/55184297,,,,ООО Финтех Айкью,Новосибирск
+hh.ru,Middle Python Developer,https://spb.hh.ru/vacancy/55168936,,,,ТОО Центр образовательных услуг Білім,Нур-Султан
+hh.ru,ETL разработчик,https://spb.hh.ru/vacancy/53624784,,,,ООО SDT (Strategic Development Team),Ташкент
+hh.ru,Senior BackEnd Engineer (Python),https://spb.hh.ru/vacancy/55126116,,,,Mission:Luna,"Москва, Октябрьская и еще 2 "
+hh.ru,Разработчик ETL,https://spb.hh.ru/vacancy/55145822,,,,DIS Group,Алматы
+hh.ru,Senior Python Developer,https://spb.hh.ru/vacancy/55138378,,,,Школа программирования Kodland,Москва
+hh.ru,Инженер по данным/ Data engineer,https://spb.hh.ru/vacancy/55132243,,,,3LOGIC GROUP,"Москва, Киевская"
+hh.ru,Преподаватель программирования для детей и подростков,https://spb.hh.ru/vacancy/55267361,200000.0,400000.0,KZT,ТОО IT Mind,Нур-Султан
+hh.ru,Python разработчик/middle,https://spb.hh.ru/vacancy/55347176,5000000.0,10000000.0,сум,El Jamal Group,Ташкент
+hh.ru,IT Management Trainee,https://spb.hh.ru/vacancy/55463988,,,,Частная компания Quantdart Fintech Limited,Нур-Султан
+hh.ru,Преподаватель Python,https://spb.hh.ru/vacancy/55282110,,,,ТОО JustCode,Алматы
+hh.ru,Инженер-программист в BIM отдел,https://spb.hh.ru/vacancy/55169590,,,,ТОО AQMOL-project,Нур-Султан
+hh.ru,Full-stack developer (python/js),https://spb.hh.ru/vacancy/55233415,,,,ЕМК Софт,Минск
+hh.ru,Преподаватель программирования в частную школу,https://spb.hh.ru/vacancy/55082637,,,,ИП Школа программирования UNICODE,Ташкент
+hh.ru,Преподаватель по курсу Python - разработчик (со знанием узбекского языка),https://spb.hh.ru/vacancy/55274321,,,,ООО UBRAINS,Ташкент
+hh.ru,Python (Django) / Node.js Backend Developer,https://spb.hh.ru/vacancy/55170524,300000.0,800000.0,KZT,ТОО Arcana Inc.,Алматы
+hh.ru,Преподаватель программирования (на сезон),https://spb.hh.ru/vacancy/55389024,80000.0,,KZT,ТОО CALCTECH,Кокшетау
+hh.ru,Developer,https://spb.hh.ru/vacancy/55216247,,350000.0,KZT,ТОО PHONETIC,"Алматы, Москва"
+hh.ru,Data Engineer,https://spb.hh.ru/vacancy/55246102,,,,ООО Сотбифай,Минск
+hh.ru,"Преподаватель по программированию (C++, Python, PHP)",https://spb.hh.ru/vacancy/55169941,,,,ИП A-Pro Academy,Атырау
+hh.ru,Продуктовый аналитик / Product analyst,https://spb.hh.ru/vacancy/54587889,,,,ООО HeadHunter::Analytics/Data Science,"Москва, Алексеевская"
+hh.ru,Middle / Senior QA в команду безопасности,https://spb.hh.ru/vacancy/47892571,200000.0,,руб,ООО HeadHunter::QA,"Москва, Алексеевская"
+hh.ru,Продуктовый аналитик / Product Analyst (Middle/Senior),https://spb.hh.ru/vacancy/66075789,,,,ООО HeadHunter::Product Management,"Москва, Алексеевская"
+hh.ru,Middle / Senior QA инженер,https://spb.hh.ru/vacancy/47759634,200000.0,,руб,ООО HeadHunter::QA,"Москва, Алексеевская"
+hh.ru,Technical support engineer (2nd line),https://spb.hh.ru/vacancy/66105317,,,,Weigandt-consulting,Алматы
+hh.ru,Team Lead DevOps Linux,https://spb.hh.ru/vacancy/66070373,,,,ЛАБИРИНТ,"Москва, Ленинский проспект"
+hh.ru,R&D Engineer,https://spb.hh.ru/vacancy/66123155,,,,SaM Solutions Самсолюшнс,Минск
