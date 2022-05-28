@@ -27,7 +27,7 @@ main_url = 'https://spb.hh.ru/'
 
 params = {'search_field': ['name', 'company_name', 'description']}
 params['text'] = input('Введите вакансию для поиска: ')
-max_page = 99999  # не вижу смысла в ограничении количества страниц
+max_page = 1000  # ограничении количества страниц
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'}
 page_link = '/search/vacancy'
 vacancies = []
