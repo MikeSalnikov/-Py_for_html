@@ -7,7 +7,6 @@ from contextlib import contextmanager
 from hw_py_html_3 import get_vacancies
 from mongo import salary_filter
 
-
 # ссылкa на вакансии
 PRIMARY_KEYS = set()
 # заменить проверку на
@@ -36,7 +35,6 @@ def connect_to_mongodb_collection(database_name, collection_name, delete=False):
         db.drop_collection(collection_name)
         print(f"Удалена коллеция с {count_documents} документами")
     client.close()
-
 
 def add_data_to_collection(collection, data):
     """ Добавляет вакансии в коллекцию """

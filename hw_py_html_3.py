@@ -73,6 +73,5 @@ def get_vacancies(text):
         page_link = next_page['href']
     return vacancies
 
-
 if __name__ == '__main__':
     print(len(get_vacancies('data scientist')))
