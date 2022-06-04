@@ -36,6 +36,7 @@ def connect_to_mongodb_collection(database_name, collection_name, delete=False):
         print(f"Удалена коллеция с {count_documents} документами")
     client.close()
 
+
 def add_data_to_collection(collection, data):
     """ Добавляет вакансии в коллекцию """
 
