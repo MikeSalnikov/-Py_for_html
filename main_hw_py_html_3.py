@@ -39,6 +39,7 @@ def connect_to_mongodb_collection(database_name, collection_name, delete=False):
 def add_data_to_collection(collection, data):
     """ Добавляет вакансии в коллекцию """
 
+
     for doc in data:
         try:
             if doc['link'] in PRIMARY_KEYS:
